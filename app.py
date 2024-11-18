@@ -7,10 +7,18 @@ from langchain.chains import LLMChain
 from pinecone_model import searcher as pine_searcher
 import json
 from langchain_groq import ChatGroq
+from db import db_setup, queries
+import pandas.io.sql as psql
 
 st.set_page_config(layout="wide") 
 
-llm = ChatGroq(model="llama3-70b-8192")
+llm = ChatGroq(model="llama3-70b-8192", api_key="")
+
+def setup_db(host, name, user, password):
+	db = db_setup.DBDriver(host=host, name=name, user=user, password=password)
+	db.setup()
+
+	return db	
 
 def parse_pine(results):
     table_data = []
@@ -24,6 +32,8 @@ def parse_pine(results):
             "score": result['score']
         }
         table_data.append(result_data)
+    
+    print(table_data)
         
 
     return table_data, ids
@@ -32,10 +42,9 @@ def parse_pine(results):
 def convert_to_df(ids, data):
     categories = []
     offers = []
-    print(list(data["index"]))
     for id in ids:
-        offers.append(data[data["index"] == int(id)]["OFFER"].values[0])
-        categories.append(data[data["index"] == int(id)]["CATEGORY"].values[0])
+        offers.append(data[data["UNIQUE_ID"] == id]["OFFER"].values[0])
+        categories.append(data[data["UNIQUE_ID"] == id]["CATEGORY"].values[0])
 
     df = pd.DataFrame({'ids': ids, 'offers': offers, 'categories': categories})
 
@@ -46,7 +55,6 @@ def convert_to_df(ids, data):
 
 def execute_search(query, k, model="pine"):
     s = st.session_state.pinecone_object
-
 
     start_time = time.time()
     res = s.execute_query(query, k=k)
@@ -97,8 +105,21 @@ def perform_rag(df):
     # print(response)
     return response
 
+def get_corresponding_ret_brands(conn, ids):
+    placeholders = ', '.join(['%s'] * len(ids))
+    query = f"SELECT * FROM coupons.offer WHERE offer_id IN ({placeholders})"
+    test_df = psql.read_sql(query, conn, params=ids)
+    print(test_df)
+    return test_df
+
 
 def main():
+    host = "localhost"
+    name = "couponsdb"
+    user = "calvinyu"
+    password = "password"
+
+    db = setup_db(host, name, user, password)
 
     data = get_data()
 
@@ -126,6 +147,8 @@ def main():
             execution_time, res = execute_search(query, k, model="pine")
             st.header(f"Execution time: {execution_time} seconds")
             table_data, pine_ids = parse_pine(res)
+            other_df = get_corresponding_ret_brands(db.conn, pine_ids)
+            st.dataframe(other_df)
             df = convert_to_df(pine_ids, data)
             response = perform_rag(df)
             st.write(response["text"])

@@ -51,12 +51,17 @@ class PineCone():
 			The test data with embeddings added.
 		"""
 
+		data = []
 		for d in test_data:
+			d[0] = d[3]
 			d[1] = utils.embedding_model.encode(d[1]).tolist()
 			d[2] = {"Categories": d[2]}
-			d = tuple(d)
+			d = tuple(tuple(d[:-1]))
+			data.append(d)
 
-		data = [tuple(d) for d in test_data]
+		for d in data:
+			print(d)
+			print(len(d))
 
 		return data
 
