@@ -35,9 +35,9 @@ class DBDriver:
 		for c in create_tables:
 			self.execute_query(c)
 			
-		self.insert_from_csv('data/categories.csv', 'coupons.categories')
-		self.insert_from_csv('data/brand_category.csv', 'coupons.brand')
-		self.insert_from_csv('data/offer_retailer.csv', 'coupons.offer')
+		self.insert_from_csv('../data/categories.csv', 'coupons.categories')
+		self.insert_from_csv('../data/brand_category.csv', 'coupons.brand')
+		self.insert_from_csv('../data/offer_retailer.csv', 'coupons.offer')
 		
 	def escape_single_quotes(self, text):
 		if isinstance(text, str):

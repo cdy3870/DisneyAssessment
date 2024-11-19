@@ -15,7 +15,8 @@ CREATE TABLE IF NOT EXISTS coupons.categories (
 """
 CREATE TABLE IF NOT EXISTS coupons.brand (
 	brand VARCHAR(1000),
-	brand_category VARCHAR(1000)
+	brand_category VARCHAR(1000),
+    category_id VARCHAR(1000)
 );
 """,
 """
@@ -29,6 +30,6 @@ CREATE TABLE IF NOT EXISTS coupons.offer (
 
 insert_values = [
 "INSERT INTO coupons.categories VALUES ('{}', '{}', '{}');",
-"INSERT INTO coupons.brand VALUES ('{}', '{}');",
+"INSERT INTO coupons.brand VALUES ('{}', '{}', '{}');",
 "INSERT INTO coupons.offer VALUES ('{}', '{}', '{}', '{}');"
 ]
