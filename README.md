@@ -15,7 +15,7 @@ a. The data may contain noise or require transformation (e.g., text cleaning, pa
 b. The candidate should demonstrate how they preprocess the data for efficient storage and later retrieval.
 
 
-- The main issues with the datasets are the absence of primary keys so I added keys to link brands to their categories. Since certain coupons can be attributed to multiple categories, I furthered grouped offers according to multiple categories:
+- The main issues with the datasets are the absence of primary keys so I added keys to link brands to their categories. There are missing values for the retailers column, which I replaced with "not retailer specific" since the coupons would work for regardless of the retailer. Since certain coupons can be attributed to multiple categories, I furthered grouped offers according to multiple categories:
 
     1. Every offer that has the same retailer and brand is likely just a general offer for that particular store that applies to every good in that store. For example “Spend $10 at CVS” falls under medicine & treatments, skin care, and more. We assign all of these categories to that offer.
     2. Every offer that does not have the same retailer and brand is specific to a product brand. There are instances where every corresponding category applies. For example, “Beyond Meat Plant-Based products, spend $25” falls under all of its categories (plant-based meat, frozen plant-based, packaged meat). However, a deal on "GOYA Coconut Water" falls under water, rice & grains, sauces & marinades, etc. Obviously we only want to fall under "water". 

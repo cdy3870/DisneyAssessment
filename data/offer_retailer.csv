@@ -1,28 +1,28 @@
 OFFER,RETAILER,BRAND,UNIQUE_ID
 Spend $50 on a Full-Priced new Club Membership,SAMS CLUB,SAMS CLUB,35b21c18d7aeb66bc0a07612f998c4e0d2b7a54feb0c3d5f79cb55f99a616e29
-"Beyond Meat® Plant-Based products, spend $25",,BEYOND MEAT,d8d10d7b247e842ebb6571b6fb006b9be79b2e4b6580b64230c0c9abf0d8ec6c
-Good Humor Viennetta Frozen Vanilla Cake,,GOOD HUMOR,f606af68296f7f8a3581b81fcc627bda8d7a011b80ef350e3e6d12e3a80727e0
+"Beyond Meat® Plant-Based products, spend $25",not retailer specific,BEYOND MEAT,d8d10d7b247e842ebb6571b6fb006b9be79b2e4b6580b64230c0c9abf0d8ec6c
+Good Humor Viennetta Frozen Vanilla Cake,not retailer specific,GOOD HUMOR,f606af68296f7f8a3581b81fcc627bda8d7a011b80ef350e3e6d12e3a80727e0
 "Butterball, select varieties, spend $10 at Dillons Food Store",DILLONS FOOD STORE,BUTTERBALL,c2363f43f91a25ceaa5d03e579f297438d55f0750f03768934927edd9bb7eb68
 "GATORADE® Fast Twitch®, 12-ounce 12 pack, at Amazon Storefront*",AMAZON,GATORADE,0dd3793755deff89ba5ebd88ad485c9bf78904aa81367802cbf9eb0b0aa7ce3b
-Emmy's Organics® Cookies OR Brownie Snaps,,EMMYS POP UP,e983c43d95a46af4397a45c94136742ce8f7cd14f9a062f1a780e192072152a7
+Emmy's Organics® Cookies OR Brownie Snaps,not retailer specific,EMMYS POP UP,e983c43d95a46af4397a45c94136742ce8f7cd14f9a062f1a780e192072152a7
 "Dr Pepper®, Regular OR Zero Sugar Strawberries and Cream 12 pack, at select retailers",UNITED SUPERMARKETS,DR PEPPER,a55ed3c1373bdddeb36b745abe6458e3bee9096b79b2e1011cd5702ac641a8c9
 "Arnold, Brownberry, Oroweat® Small Slice bread, at Walmart",WALMART,ARNOLD BROWNBERRY OROWEAT,32d0aad9293be765f78797a4021c4b68d898d3382b6bbefe0ebacd5bb258ffda
-Barilla® Pesto Sauce,,BARILLA,34fb00aaf3e1eb1a21e6b29ec9098383e3562404620783a56d97acb5cb0dcb50
+Barilla® Pesto Sauce,not retailer specific,BARILLA,34fb00aaf3e1eb1a21e6b29ec9098383e3562404620783a56d97acb5cb0dcb50
 "Any General Mills™ products, buy 2
-Good Rewards Members Only",,ANNIES HOMEGROWN GROCERY,d388d160ffb5bcc2946ba907c1531a1688b3fccf6cf0d9edd0b5427dfabd8e53
+Good Rewards Members Only",not retailer specific,ANNIES HOMEGROWN GROCERY,d388d160ffb5bcc2946ba907c1531a1688b3fccf6cf0d9edd0b5427dfabd8e53
 Egglife Egg White Wraps at Aldi,ALDI,EGGLIFE,9c40b77b242dfea0029d01fc5334e348dc07c7e012defa5305e737757a8944f8
 Spend $20 at Zaxby's,ZAXBYS,ZAXBYS,85b6174d770318a2d6ce7392c06b674843bc45250f1e5783b19319bf211ec385
 Spend $10 at Subway,SUBWAY,SUBWAY,63aced7950e58166fa60240e910fb07ce0f7294d69a8845a81934dc72e057d6f
-"DOVE® Chocolate, select sizes, buy 1",,DOVE CHOCOLATE,29669a2527c09d9edb36d26109ffb5b7e70d6217ef8c0cbc89eec7a46a05b52d
-Hellmann's® OR Best Foods® Garlic Aioli OR Spicy Mayonnaise,,HELLMANNS BEST FOODS,030ad2337943cb57154c76b78c0755acbd394f1d9baff7ef0ab8bc55c98643c0
-"M&M'S®, select sizes, buy 1",,M&MS,33e85a7ff144e14b104361c7e0a39e6c51a4b7e3e215e9ef976aa9f7f4dc8c31
-"GATORLYTE® OR GATORADE™ Fit Single Serve Bottle, select varieties, buy 2",,GATORADE,078d047492001f7a001fc909461a7fb96003d0db94d761dbe51d2f2f97b4c194
+"DOVE® Chocolate, select sizes, buy 1",not retailer specific,DOVE CHOCOLATE,29669a2527c09d9edb36d26109ffb5b7e70d6217ef8c0cbc89eec7a46a05b52d
+Hellmann's® OR Best Foods® Garlic Aioli OR Spicy Mayonnaise,not retailer specific,HELLMANNS BEST FOODS,030ad2337943cb57154c76b78c0755acbd394f1d9baff7ef0ab8bc55c98643c0
+"M&M'S®, select sizes, buy 1",not retailer specific,M&MS,33e85a7ff144e14b104361c7e0a39e6c51a4b7e3e215e9ef976aa9f7f4dc8c31
+"GATORLYTE® OR GATORADE™ Fit Single Serve Bottle, select varieties, buy 2",not retailer specific,GATORADE,078d047492001f7a001fc909461a7fb96003d0db94d761dbe51d2f2f97b4c194
 "Beyond Steak™ Plant-Based seared tips, 10 ounce at Target",TARGET,BEYOND MEAT,3021c456e68cc2a01c281e145f06d1135cd5599c15c4da00bdd1e9b7bb30915b
-Red Gold Tomato Ketchup,,RED GOLD,cb329d652c13cdb26be3cb8a235a63bfc6ef525d76618d69258523c013c1c022
-Gillette Venus ® for Pubic Hair & Skin spend $20,,GILLETTE VENUS,63ce8793de2597d23262f9f96802576d8375848418cbcd37813c4b8eee209f07
+Red Gold Tomato Ketchup,not retailer specific,RED GOLD,cb329d652c13cdb26be3cb8a235a63bfc6ef525d76618d69258523c013c1c022
+Gillette Venus ® for Pubic Hair & Skin spend $20,not retailer specific,GILLETTE VENUS,63ce8793de2597d23262f9f96802576d8375848418cbcd37813c4b8eee209f07
 Spend $140 at Shaws,SHAWS,SHAWS,8925bb298f831b7154cd1ca1c9622d9e74b6d14068840bd67d3ac1e57052715d
 "L'Oréal Paris Hair color, select varieties, spend $19 at Target",TARGET,LOREAL PARIS HAIR COLOR,eb466c97b6f889295f1814ca628f02cf6259530c6ed1d3f5e0ef75aeabc2791c
-Simply Spiked™ Lemonade 12 pack+,,SIMPLY SPIKED,15ae8957db69ccd94d53cbc089559b6186cff987425a9a0c31ee8d73c7745670
+Simply Spiked™ Lemonade 12 pack+,not retailer specific,SIMPLY SPIKED,15ae8957db69ccd94d53cbc089559b6186cff987425a9a0c31ee8d73c7745670
 "Gorton's, at select retailers",SHOP RITE,GORTONS,095b5ceb470b9895651a76fcaafbc33eff467983f3b7304c8639dc07f6d6407a
 Shop 2 times at ACME,ACME,ACME,70edd93e396d47fecfb2beff21ce576c7fa9da0382d3086ae811e9f49612a899
 "Butterball, select varieties, spend $10 at Ralphs",RALPHS,BUTTERBALL,7adba79df1175b2518584f570372a4491f849e7f42303323267b862af9573f92
@@ -33,33 +33,33 @@ Spend $15 at Nekter,NEKTER JUICE BAR,NEKTER,dfd931c6ae6ea323d58a9b602c79f2b19087
 Order online at Zaxbys.com,ZAXBYS,ZAXBYS,26892d29c4573468a4142e318decee385af42cd04b280bf3b4f1822bfa00cec5
 "Butterball, select varieties, spend $10 at King Soopers",KING SOOPERS,BUTTERBALL,93afbc01a151782578aff0bacef2c6903ce2eada12f71f77474c0c317741890f
 Order from Casey's app or Caseys.com,CASEYS GENERAL STORE,CASEYS GENERAL STORE,267d3756b3d44a3d5f7e85fd5b4bd92e00266e7ca71ada1e35d4d63daaa98014
-"Tru-Ray® Premium Construction Paper, spend $10",,TRURAY,04acb1465852782e6f26cb096c7f6e73e9f98c40f3f0fec97d2a80533a03d640
+"Tru-Ray® Premium Construction Paper, spend $10",not retailer specific,TRURAY,04acb1465852782e6f26cb096c7f6e73e9f98c40f3f0fec97d2a80533a03d640
 "Flonase Allergy Relief, at Walmart",WALMART,FLONASE,6527ce88fb8e98a477506467109453ae06f44f9c8f285c0f7399077cf7f28b89
 Spend $25 at KFC,KFC,KFC,8ad76822e1c519b448b71fff51a4f004196524aa90b70412412128fd234b2261
 "Gorton's Air Fried Butterfly Shrimp, at Walmart",WALMART,GORTONS,9fcc7f96594feb440f47a9454c1b6e20998a7065b4aedaa1b7cbb663302b8792
-"CESAR® Wet Dog Food, spend $20",,CESAR,298800dbd41b01c42f5c139e6bdcc9a0d1a98d623390aa3363d05cbe4ae595cf
-"TWIX®, select sizes",,TWIX,91b11eabecac955943e29a29418ba6b5438434af8a811cf50423fb6c6df2d8c6
-"M&M'S® chocolate candies, select varieties",,M&MS,a576a8ceb3e2cf8395efd1a4e4ba89667693f2dea0427ec5b5cbfe250e8370bb
-"Hidden Valley® Ranch Salad Dressing OR Secret Sauce, select varieties",,HIDDEN VALLEY RANCH,d14c0c0ac588db264ef439fe54096a29ef2674978fb259b3e97b3cfd83685fae
+"CESAR® Wet Dog Food, spend $20",not retailer specific,CESAR,298800dbd41b01c42f5c139e6bdcc9a0d1a98d623390aa3363d05cbe4ae595cf
+"TWIX®, select sizes",not retailer specific,TWIX,91b11eabecac955943e29a29418ba6b5438434af8a811cf50423fb6c6df2d8c6
+"M&M'S® chocolate candies, select varieties",not retailer specific,M&MS,a576a8ceb3e2cf8395efd1a4e4ba89667693f2dea0427ec5b5cbfe250e8370bb
+"Hidden Valley® Ranch Salad Dressing OR Secret Sauce, select varieties",not retailer specific,HIDDEN VALLEY RANCH,d14c0c0ac588db264ef439fe54096a29ef2674978fb259b3e97b3cfd83685fae
 Spend $210 at Randalls,RANDALLS,RANDALLS,d60e92f91a0dbce033b0cee8a220b20951db5382f895675afffaf779611c6636
 "Cooked Perfect® Meatballs, at Walmart",WALMART,COOKED PERFECT,534e1017dd7cef5f685c613776f3cf726bff99322b636afff5e2daa01f6f12e7
 Spend $25 at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,389c195021a239f2c013c9f91ef6a814f7296419cd8839dd9762a5a8709dcec5
 "Perfect Keto Barista Blend Collagen & MCTs, online at Amazon",AMAZON,PERFECT KETO,6c46e5532d8e295bdf9a36061e921d9d45b392d2364acd9b014e2efd13d5dca0
-"Creativity Street®, spend $10",,CREATIVITY STREET,9e28bb02b3e4b0834874acff1bad1f0ced089208c17eaf29ac31f6152401a5f7
-"Crunchmaster® Crackers, spend $4",,CRUNCHMASTER,4f2e70789ab026eb05b792c7dadebeb5aaa84d38b12eff3589d26a2da231c84b
+"Creativity Street®, spend $10",not retailer specific,CREATIVITY STREET,9e28bb02b3e4b0834874acff1bad1f0ced089208c17eaf29ac31f6152401a5f7
+"Crunchmaster® Crackers, spend $4",not retailer specific,CRUNCHMASTER,4f2e70789ab026eb05b792c7dadebeb5aaa84d38b12eff3589d26a2da231c84b
 "Tyson Products, select varieties, spend $20 at Sam's Club",SAMS CLUB,BALL PARK FRANK,fedcf35e098a7fe25a48beda378ae572d6048fc57c547180a9094400c1c4a797
 "L'Oréal Paris Makeup, spend $35 at Target",TARGET,LOREAL PARIS COSMETICS,5288d138a654533706644904a66d7447afe91f5d371021873fb5bdb724383514
 Spend $25 at Subway,SUBWAY,SUBWAY,2c5d9b33924dd90854bd3793cc6bbc7f33d8951039b75d0a7fa68847bbb14d5b
 Any Vons receipt,VONS,VONS,135b69c231c0c506af9c34aef96c9951f739996157df88b4704ff0f31261c67e
-"Chosen Foods® Mayo, select varieties",,CHOSEN FOODS,04512d2e1d2db5b3071b391996734dfdc2c47fdb1e419c6178395fe9d30f6853
+"Chosen Foods® Mayo, select varieties",not retailer specific,CHOSEN FOODS,04512d2e1d2db5b3071b391996734dfdc2c47fdb1e419c6178395fe9d30f6853
 "L'Oréal Paris Men Expert hair color, spend $19 at Walmart",WALMART,LOREAL PARIS HAIR COLOR,de5d238fb976dd542838b015135c2d32ca4a0cb0caf2fbc1454cd885c2e06569
 Spend $185 at Shaws,SHAWS,SHAWS,bd1eae7d9443fe6acad2c85e60fd699f803c6199213192fb1a954a738ea8878e
 Spend $150 at Vons,VONS,VONS,2b41ac4b1fa1f7b348ca13fb1129321ba69e4f850eefd11322ba3428590643cb
 "Wine from TheBarrelRoom.com, spend $30",GALLO.COM,ALAMOS,0b3738d9a5e7a960354154ff57fe73787e08caaf7878b87daa5d46eb6a00dd4f
-"General Mills™ products, select brands, spend $35",,ANNIES HOMEGROWN GROCERY,a2afe03a1c77459a69cb656dfe7d810d296f85759467b98babc55b555f9703fc
+"General Mills™ products, select brands, spend $35",not retailer specific,ANNIES HOMEGROWN GROCERY,a2afe03a1c77459a69cb656dfe7d810d296f85759467b98babc55b555f9703fc
 "PepsiCo® Beverage, 7.5-ounce 10 pack, select varieties, at Amazon Storefront*",AMAZON,PEPSI,b056862db6c698f68117ff0d74fb5d238f0e8e5727988222106b199e7fcb77f1
 "Sara Lee® bread, select varieties, buy 2 at Walmart®",WALMART,SARA LEE,7c31afd8f04bb9bacef7fd37a6dfda39b9725a4e9e3898c40656fd26a912ac09
-"Sara Lee® or Alfaros® Artesano bread, buy 5",,ALFAROS,4d957b9894d566bef18c1fc74c637c0d10974d82ee02292f02c29b5c20e2f4b6
+"Sara Lee® or Alfaros® Artesano bread, buy 5",not retailer specific,ALFAROS,4d957b9894d566bef18c1fc74c637c0d10974d82ee02292f02c29b5c20e2f4b6
 "Bai® Antioxidant, 6 pack, buy 2 at Walmart",WALMART,BAI,2b19dcb1a25cc9e2ec139600b9c37d098de5319294a624e08795368dffde3628
 Spend $5 in-store at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,fd11c2e06fa5d47ebc69affbebc511dc790282fd5e3570101ef5da54fdb34536
 "Reese's Chocolate Cones, 8 count at GIANT OR MARTIN’S",MARTINS FOODS,KLONDIKE,02c2b32fee0a69daa0b8754cfc406c3094d2f0efcbeaf1390c437f9cb56f480c
@@ -70,166 +70,166 @@ Select beverages AND prepared food items at Casey's,CASEYS GENERAL STORE,CASEYS 
 QUEEN V® The VIP & The Wingwoman Soft Touch Silicone Vibrator at Walmart,WALMART,QUEEN V,7fb6e1853b929add574f260aa50b020297fd74b017627d6218808053b18abf93
 "Back to the Roots Grow Seed Starting Pots OR Germination Trays, at Walmart or Target",TARGET,BACK TO THE ROOTS,616e328c0e565ba4fc404c196eca6c570e02bce14ed04a75a4495f8fd86e2863
 "Dove Hand Wash, select varieties, buy 2 at Target",TARGET,DOVE,d8d36cd2915c20e77eee3579af6b081b5d0f781c3c10151fa037d283a6befde8
-"Frutero Ice Cream, 1 pint",,FRUTERO,bc25afdfe5a4042083c5e587cf244761c733437eb14c5d53da195af79c7ba416
-Red Gold Tomato Juice,,RED GOLD,91d6dea05e1f5e57696a209d37318384bd68d8ceb1837134f52ebb253a6445f4
-"Bio-Oil® Skincare Oil OR Gel, select varieties",,BIO OIL,2d1fa4b45260ecb058639728cc1098ae0854120ccfbfac40209c763a7703ba55
+"Frutero Ice Cream, 1 pint",not retailer specific,FRUTERO,bc25afdfe5a4042083c5e587cf244761c733437eb14c5d53da195af79c7ba416
+Red Gold Tomato Juice,not retailer specific,RED GOLD,91d6dea05e1f5e57696a209d37318384bd68d8ceb1837134f52ebb253a6445f4
+"Bio-Oil® Skincare Oil OR Gel, select varieties",not retailer specific,BIO OIL,2d1fa4b45260ecb058639728cc1098ae0854120ccfbfac40209c763a7703ba55
 Spend $65 at Albertsons,ALBERTSONS,ALBERTSONS,1edd02577839d2136dcc6056452284d781ebcff09a14be28273add11c5ac5661
-"Welch's®Fruit Snacks, select varieties, buy 2",,WELCHS FRUIT SNACKS,b5017072c6b700ae4157b7e7d5e2dfeebb5a2f22515aaba0c0ae7f287b2ffe32
-Talenti Mini Bars,,TALENTI,fbc5078dc325a5ac258dfcbe0881668d31a746936d85e0abc013aee3d0d1ccf1
+"Welch's®Fruit Snacks, select varieties, buy 2",not retailer specific,WELCHS FRUIT SNACKS,b5017072c6b700ae4157b7e7d5e2dfeebb5a2f22515aaba0c0ae7f287b2ffe32
+Talenti Mini Bars,not retailer specific,TALENTI,fbc5078dc325a5ac258dfcbe0881668d31a746936d85e0abc013aee3d0d1ccf1
 Visit OR order online from Casey's 7 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,ff0fd6bab3695a28b4d13909ff65707a2166ff35e488da80ab8585ebe6e4c770
-"Simply Spiked™ Signature Peach 12-pack or larger, buy 2",,SIMPLY SPIKED,fd636576befa68bc75ed96e7809146dbddf8341b338c4a75c44a3ee669a17fcf
-"Molson Coors®, select varieties, 12 pack+",,COORS LIGHT,f02f23dd76f11568cfa34c90f82832836e52c4360c366e35b89c74342a476795
+"Simply Spiked™ Signature Peach 12-pack or larger, buy 2",not retailer specific,SIMPLY SPIKED,fd636576befa68bc75ed96e7809146dbddf8341b338c4a75c44a3ee669a17fcf
+"Molson Coors®, select varieties, 12 pack+",not retailer specific,COORS LIGHT,f02f23dd76f11568cfa34c90f82832836e52c4360c366e35b89c74342a476795
 "Welch's® Zero Sugar Fruity Bites, 6 pack+, online at Amazon",AMAZON,WELCHS FRUIT SNACKS,4400e2c4d77de370f415ba1aba4d354add284519b4a3abf8755147ae3ae18519
 "PepsiCo® Variety Pack, select varieties, at Amazon Storefront*",AMAZON,PEPSI,89ea03dcc9fbfda69af965636b277e5f7292e336c1c0c6b12abc51e133c8fdc1
 Spend $100 at Vons,VONS,VONS,c1d92c654171bb14fec4d8215665f60e65f45b83243979c300296f7b8c528577
 Spend $15 at Subway,SUBWAY,SUBWAY,d72480b7afdebad95116d71780d983ce0a7f0b296581592da358d2e7fc5025e1
 Spend $35 at Fresh Thyme Market,FRESH THYME,FRESH THYME MARKET,6487d459fedec1ec0ee3e23c5441891487e3b88aed5ea4a4f8843b6dead057ba
 Sign up for The Club Card or The Club+ Card full-priced membership* (New Members Only),BJS WHOLESALE,BJS WHOLESALE,b48341d8ccf16c39e68276343d444fc25c71155cd188b3b757b926a57e3e13ee
-"Marinela® sweet baked goods, buy 2",,MARINELA,4aee3fa6be811f5c5a3e998f568b5f5ab367538323f6f1e0069609a157af650e
+"Marinela® sweet baked goods, buy 2",not retailer specific,MARINELA,4aee3fa6be811f5c5a3e998f568b5f5ab367538323f6f1e0069609a157af650e
 "Back to the Roots Soils, select varieties and sizes, at Walmart",WALMART,BACK TO THE ROOTS,482aa70b7ee71bd420acd7328c7bbc59eb1fcc2774539e73826ff7c3734c2ab2
-"Any General Mills™ products, spend $60",,ANNIES HOMEGROWN,ed218ea9cf793dab4d8f2a4da4476d55edd36cf3017050c55571f49a688fb5ca
-"Welch's® Fruit Snacks, select varieties, 6 count+, buy 3",,WELCHS FRUIT SNACKS,ada9db54a312275a4b98e765756cf84c0580477f5473f09da4d15a859a7c924d
+"Any General Mills™ products, spend $60",not retailer specific,ANNIES HOMEGROWN,ed218ea9cf793dab4d8f2a4da4476d55edd36cf3017050c55571f49a688fb5ca
+"Welch's® Fruit Snacks, select varieties, 6 count+, buy 3",not retailer specific,WELCHS FRUIT SNACKS,ada9db54a312275a4b98e765756cf84c0580477f5473f09da4d15a859a7c924d
 Spend $90 at Tom Thumb,TOM THUMB,TOM THUMB,9a32d7c5480a57c1b18720a7ae65cf58aba43de74016624781f382e5ccf6c81f
 Spend $5 on single-serve prepared food items at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,810537e67a8420292e693d8017c616ad6a0444bbe823913f0fafd4782aa30488
-"Coors Light®, Miller Lite® OR VIZZY™ 12 pack+",,VIZZY,c9e8c666266d865a3c77c6933f661842f7893824177076b397ecae0f950c7136
+"Coors Light®, Miller Lite® OR VIZZY™ 12 pack+",not retailer specific,VIZZY,c9e8c666266d865a3c77c6933f661842f7893824177076b397ecae0f950c7136
 "Cooked Perfect® Meatballs, Homestyle OR Turkey, at Walmart",WALMART,COOKED PERFECT,f8e8b6361022eefc8228b5082dc11f21e593de91c2df44176c701385f55a139b
 12 Pack OR 2 Liter AND Whole Pizza Pie at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,e552fb30b31d6735163b009053d21ef6fe2f753a76f64a19ce869d0c2a2b7ce5
-"General Mills™ products, select brands, spend $7 at Convenience Stores",,ANNIES HOMEGROWN GROCERY,5314264d5c87cf895ea6ce2010b15f60b02bec289882b161c307f5b3e084145e
-Gillette Venus ® for Pubic Hair & Skin,,GILLETTE VENUS,441fcc6ae3f205a3b5767d1ad30deb9742301fdd0f41b69ba8dc4d8e694976db
-"Barilla® Pasta, select varieties, buy 2",,BARILLA,e5e89cb373c2e191fd7b34fc7ef88550dd1e1cbf806339d835c8af7f726d3a50
+"General Mills™ products, select brands, spend $7 at Convenience Stores",not retailer specific,ANNIES HOMEGROWN GROCERY,5314264d5c87cf895ea6ce2010b15f60b02bec289882b161c307f5b3e084145e
+Gillette Venus ® for Pubic Hair & Skin,not retailer specific,GILLETTE VENUS,441fcc6ae3f205a3b5767d1ad30deb9742301fdd0f41b69ba8dc4d8e694976db
+"Barilla® Pasta, select varieties, buy 2",not retailer specific,BARILLA,e5e89cb373c2e191fd7b34fc7ef88550dd1e1cbf806339d835c8af7f726d3a50
 Little Bites® Spend $10 at Walmart®,WALMART,ENTENMANNS,b5fca86d6efd110d103b756bbb8883c6ae9a0f705e479b4a9feb111f770cde1a
-Envy Apples pre-packed bags,,ENVY,c574a73a240fa2a9f85193fbc647bb0a49fcedb3d2b6edd2fadc708706e5a655
+Envy Apples pre-packed bags,not retailer specific,ENVY,c574a73a240fa2a9f85193fbc647bb0a49fcedb3d2b6edd2fadc708706e5a655
 Shop 2 times at Tom Thumb,TOM THUMB,TOM THUMB,64c5b40f541fbd5644fe294d9448c96020cd4e1215c7352c4167c1277dbc6360
-"Ben & Jerry's Frozen Creme Brulee Non Dairy Dessert, 16 ounce",,BEN AND JERRYS,34039054fb649b6dfe0ec4f901d77565bedc2bc06e79cf3acd221df249225fc9
+"Ben & Jerry's Frozen Creme Brulee Non Dairy Dessert, 16 ounce",not retailer specific,BEN AND JERRYS,34039054fb649b6dfe0ec4f901d77565bedc2bc06e79cf3acd221df249225fc9
 "Purex® laundry detergent, select varieties, at Walmart",WALMART,PUREX,e311996029d2ee4f6630dfe4f1ce74610541d440a1260e4fcefbf38f50e67c37
 Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,52feda4d5ab8624c509dd804c92a5ba445b146197bfa77c34a7876bfe874ff07
 Shop 2 times at Safeway,SAFEWAY,SAFEWAY,2e14160d2e28c9b355c0a77184ae681102f8a7615a8d45fc2fdae37279223581
-"Any General Mills™ products, spend $30",,ANNIES HOMEGROWN,18637a2b4f75894a570ae9b92532b673f82ad23b96a7e63e79f59199bec7026c
-"Ben & Jerry's® Doggie Desserts, 4 count",,BEN AND JERRYS,6a8fba3c091d5c465879ffa119887bf70bf30ea18d9760e2eedf7561bf440c52
-Sol® 6 pack+,,SOL CERVEZA,03787885907a210662e46757fe494e4707fcab6e57b04b9c2dc3260cffd6f6db
+"Any General Mills™ products, spend $30",not retailer specific,ANNIES HOMEGROWN,18637a2b4f75894a570ae9b92532b673f82ad23b96a7e63e79f59199bec7026c
+"Ben & Jerry's® Doggie Desserts, 4 count",not retailer specific,BEN AND JERRYS,6a8fba3c091d5c465879ffa119887bf70bf30ea18d9760e2eedf7561bf440c52
+Sol® 6 pack+,not retailer specific,SOL CERVEZA,03787885907a210662e46757fe494e4707fcab6e57b04b9c2dc3260cffd6f6db
 "George's Farmers Market Chicken Wings, at Sam's Club",SAMS CLUB,GEORGES FARMERS MARKET,da4caf80d5bf3d1a9275f5ae3bcd9f83ce428b13ac4ba35801c58980fc861f34
-"Michael Angelo's® OR Rao's® Frozen Entrees, spend $10",,RAO'S,dd049c6448dd524f50e018bb79f6bd6e1b886e8b3f9c26ca8dacf28c9c6a3814
-"Sargento Sliced Cheese, spend $25",,SARGENTO,b9f0d1eff437e1d09f8343190da250f119eda50fcc4a99497efa9c3d2be8cc00
-"Sargento Sliced Cheese, spend $12",,SARGENTO,4b46456718be8cdbdc77dd7e2f3865437054a069df939bd77562c5408f67ba32
+"Michael Angelo's® OR Rao's® Frozen Entrees, spend $10",not retailer specific,RAO'S,dd049c6448dd524f50e018bb79f6bd6e1b886e8b3f9c26ca8dacf28c9c6a3814
+"Sargento Sliced Cheese, spend $25",not retailer specific,SARGENTO,b9f0d1eff437e1d09f8343190da250f119eda50fcc4a99497efa9c3d2be8cc00
+"Sargento Sliced Cheese, spend $12",not retailer specific,SARGENTO,4b46456718be8cdbdc77dd7e2f3865437054a069df939bd77562c5408f67ba32
 Country Crock® Plant Based Butter at Walmart,WALMART,COUNTRY CROCK PLANT BUTTER,4df91e355aa508b8c2d2b400db1a655428983e511c72e85cfb6ad24742d11a35
 "Perfect Keto Beauty + Sleep Collagen, online at Amazon",AMAZON,PERFECT KETO,4e7660624d1b81878749bb508580ff87ba0c1f3746b20962e53001e42cd206fc
-"DOVE® chocolate, select varieties",,DOVE CHOCOLATE,13a3356ef5d713b5e4cbed6c0cf93af57e1f1135bdfd8f01ddb1f322aeb3d12e
-Simply Spiked™ 12 pack+,,SIMPLY SPIKED,197e4128100bff0eb36515f8cffb03a20a21c5f421ffb75b060cc673900aea02
+"DOVE® chocolate, select varieties",not retailer specific,DOVE CHOCOLATE,13a3356ef5d713b5e4cbed6c0cf93af57e1f1135bdfd8f01ddb1f322aeb3d12e
+Simply Spiked™ 12 pack+,not retailer specific,SIMPLY SPIKED,197e4128100bff0eb36515f8cffb03a20a21c5f421ffb75b060cc673900aea02
 "Perfect Keto Bars, online at Amazon",AMAZON,PERFECT KETO,2717ed1d98d4b1818f4b34ee85ad104fd9338f1dbd58684e67a82b2c19fa41f7
-"Gillette Venus ® for Pubic Hair & Skin, spend $20",,GILLETTE VENUS,8182bff262b4e4cc38494643a02269e5c1be43eee2c828a0565ff484dcc89df9
+"Gillette Venus ® for Pubic Hair & Skin, spend $20",not retailer specific,GILLETTE VENUS,8182bff262b4e4cc38494643a02269e5c1be43eee2c828a0565ff484dcc89df9
 AleveX™ at Walmart,WALMART,ALEVE,d351b19807d2abd88c259fb9bb3f82f0e7e6b2334fbbdc491fce9c8890e7dd03
-"Envy Apples, pre-packed bags",,ENVY,b37dcea97aa520274198ce3cc24426d84e7fb7ac5bbdbf4a0c15c72ddbd161de
-"Ben & Jerry's Frozen Sugar Cookie Dough Chunks, 8 ounce",,BEN AND JERRYS,88a168cc51708f4147d28ca6ff2b4c2f3ab24cc9250522ba195ffd989deefff4
+"Envy Apples, pre-packed bags",not retailer specific,ENVY,b37dcea97aa520274198ce3cc24426d84e7fb7ac5bbdbf4a0c15c72ddbd161de
+"Ben & Jerry's Frozen Sugar Cookie Dough Chunks, 8 ounce",not retailer specific,BEN AND JERRYS,88a168cc51708f4147d28ca6ff2b4c2f3ab24cc9250522ba195ffd989deefff4
 "L’Oréal Paris Men Expert hair color, spend $9 at Walmart",WALMART,LOREAL PARIS HAIR COLOR,03f6769a1c23620ea937afab4432eff896cfe4d5d77e60fead69ea279e8e45b5
 "Reese's Peanut Butter Bar, 6 count, at GIANT OR MARTIN’S",THE GIANT CO,GOOD HUMOR,717a62a8f90d39c644d005b8c86c7dcbb5366b5ec3ad789267e543f8b2a5802d
-"Magnum Non-Dairy Hazelnut Crunch Ice Cream Bars, 3 count",,MAGNUM ICE CREAM,b30d398dafd75dfc98bbdb4696818b86e2cc3330342f5f6ace74a2a8a04fd741
+"Magnum Non-Dairy Hazelnut Crunch Ice Cream Bars, 3 count",not retailer specific,MAGNUM ICE CREAM,b30d398dafd75dfc98bbdb4696818b86e2cc3330342f5f6ace74a2a8a04fd741
 "Butterball, select varieties, spend $10 at Fred Meyer",FRED MEYER,BUTTERBALL,dd48bac4058667a071cfc6023712d231cc04bf4d5337e4c54749ea308dd3d0ea
-"Thomas'® Bagel Thins®, buy 2",,THOMAS,0588642a727687dd6533a097e3096bbceafa17eeeed483ba5ce2bf6e66fd4fb7
+"Thomas'® Bagel Thins®, buy 2",not retailer specific,THOMAS,0588642a727687dd6533a097e3096bbceafa17eeeed483ba5ce2bf6e66fd4fb7
 Spend $60 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,4c2a10ff640244f2fefb76bae670aa5976047ca312fffd64b4e8dc5c17418560
 "Artesano® buns, buy 2 at Walmart®",WALMART,SARA LEE ARTESANO,de56475ddf10654625466f920d17d3da46cede9b18fd6aee08eb84a0583dd1c5
-"STARBURST®, select sizes, buy 1",,STARBURST,61367b151ca3ba81f2c5f8f92250184ee8a9ba5db41b50f938983b88af556f21
-Fresh Step® Outstretch® Cat Litter,,FRESH STEP,1c463e198658ff3dfa21e9743a7209b1125ac166fe4c77023efca00e9cf37d88
-"Sara Lee® or Alfaros® Artesano bread, spend $8",,ALFAROS,215dc581f4ce310c95785ceb55e045be0fb8051e951c601c79fed8277accf11c
+"STARBURST®, select sizes, buy 1",not retailer specific,STARBURST,61367b151ca3ba81f2c5f8f92250184ee8a9ba5db41b50f938983b88af556f21
+Fresh Step® Outstretch® Cat Litter,not retailer specific,FRESH STEP,1c463e198658ff3dfa21e9743a7209b1125ac166fe4c77023efca00e9cf37d88
+"Sara Lee® or Alfaros® Artesano bread, spend $8",not retailer specific,ALFAROS,215dc581f4ce310c95785ceb55e045be0fb8051e951c601c79fed8277accf11c
 "Back to the Roots Dry Plant Food, 5 pounds, at The Home Depot",THE HOME DEPOT,BACK TO THE ROOTS,1ef08e74842c7284f8c4b78b917aee36f644e1dd1ff58c0ec7e6bb949ca4b5e9
 "Burt's Bees Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,7ef5a49702bde42ac56546d0667e7e7b64018a88b8d2f083fccf36e03e20bba7
 "Durex® Massage & Play 2 in 1 Pleasure Gel, select varieties, at Walmart or Target",TARGET,DUREX,49cd959d2a8e4f598c47a76d05ec7c4b505718a3c9798ce111b1d2bfa7333feb
-"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 4",,VIZZY,13df156f0c7ad9723520be0fbc61c0f5d27783f251db86e6b88dbd5f1aec732a
-LIFE SAVERS®,,LIFESAVERS,df9b1c906c656c43a0a1a8d03e898b48822b1812f402a6aa6bd7f3b977d7fea7
+"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 4",not retailer specific,VIZZY,13df156f0c7ad9723520be0fbc61c0f5d27783f251db86e6b88dbd5f1aec732a
+LIFE SAVERS®,not retailer specific,LIFESAVERS,df9b1c906c656c43a0a1a8d03e898b48822b1812f402a6aa6bd7f3b977d7fea7
 "Butterball, select varieties, spend $10 at Kroger",KROGER,BUTTERBALL,1a63e1d0601a16151feda29cb20964ca444fcaf70d347824af547623c82272df
 "RESPAWN® by 5® GUM, at Walmart",WALMART,5 GUM,9cf94b2841e0e80efa3cc4828068b606ef3e433cb63b4ad76895b9729a8d5c3b
 "Back to the Roots Garden Soil, 1 cubic foot, at Lowe's Home Improvement",LOWES HOME IMPROVEMENT,BACK TO THE ROOTS,04dbacfcd440bc2b4338d5b649f4f8bd7b25092d63abdbf322b637b73482d0e2
 "SiO® Beauty Patches, online at Siobeauty.com",SIOBEAUTY.COM,SIO BEAUTY,b524d34d657eea15fcf7e42a1e6e50cece20097c3a090429ed4c2dfea5770e72
-Wesson® Oil Products,,WESSON,0f801eaf5cf05cc80433b8e07ef9a50a283716e3c1f36ec6b5530a6e977aa25c
+Wesson® Oil Products,not retailer specific,WESSON,0f801eaf5cf05cc80433b8e07ef9a50a283716e3c1f36ec6b5530a6e977aa25c
 "Bubbies Pickles, Sauerkraut, and Condiments at Whole Foods or Sprouts",SPROUTS FARMERS MARKET,BUBBIES,87e575cac8ea6e158a3669db2756c951b8a146a83b00a293faeaea0079bba029
 Michael Angelo's® Sauce at Walmart,WALMART,MICHAEL ANGELO'S,785d4579ad9d67fd5188cbf42d013bf08a269d91c676ba55f97fca1e048048f7
 Spend $155 at Pavilions,PAVILIONS,PAVILIONS,c83d82d07499ab032d6c69273fec45b7ab381c7fdc33267775f3d021c275b90b
-CESAR® Wet Dog Food Singles,,CESAR,e2ed4c1d6b88c6c1cbb7912b2cf5515a3d4d544a790f3a6baa59e53dff0a9c18
+CESAR® Wet Dog Food Singles,not retailer specific,CESAR,e2ed4c1d6b88c6c1cbb7912b2cf5515a3d4d544a790f3a6baa59e53dff0a9c18
 Spend $90 at ACME,ACME,ACME,b7673b5c17d07e99be4427d5af194cfd1a2507d9b5063794d70c944325e28628
-"Hidden Valley® Ranch Seasoning Mix Packet, 1 count",,HIDDEN VALLEY RANCH,c24284e61a0a23f4f237bb06daacab1b8a618c37e16117eb5b049bb6dca8dea2
-"Sargento® products, select varieties",,SARGENTO,084ad3396d676d244b28024c7c7c70470a07731118ecdddba847ee4bce2b6743
+"Hidden Valley® Ranch Seasoning Mix Packet, 1 count",not retailer specific,HIDDEN VALLEY RANCH,c24284e61a0a23f4f237bb06daacab1b8a618c37e16117eb5b049bb6dca8dea2
+"Sargento® products, select varieties",not retailer specific,SARGENTO,084ad3396d676d244b28024c7c7c70470a07731118ecdddba847ee4bce2b6743
 "Welch's® Fruit Snacks, 250 count, online at Amazon",AMAZON,WELCHS FRUIT SNACKS,fa41d03bf798b28ac3579d33f588fc5aa2365c8927858ee622bb299bac499764
-"Ben & Jerry's®, select varieties",,BEN AND JERRYS,fab7ef98935d1de42ac1f85de2541cba0e82c40a10afb12d83ffa931dc4c9d77
-Simply Spiked™ Signature Peach 12 pack+,,SIMPLY SPIKED,8dd450bfd4847349dc8045ad40e47cd1c9a6ce08f785c74b647172076d4e04b8
-"Beech-Nut snacks, select varieties",,BEECHNUT,21cc8f9b636aa98cea8d97aa971728949562ccdd7fbaca516a5f12e9ac515da2
-"Sargento® products, select varieties, buy 3",,SARGENTO,eb5e88cac33b03ff628f820a43ccfd3396306a3776ed73bacbe25a056135fecd
+"Ben & Jerry's®, select varieties",not retailer specific,BEN AND JERRYS,fab7ef98935d1de42ac1f85de2541cba0e82c40a10afb12d83ffa931dc4c9d77
+Simply Spiked™ Signature Peach 12 pack+,not retailer specific,SIMPLY SPIKED,8dd450bfd4847349dc8045ad40e47cd1c9a6ce08f785c74b647172076d4e04b8
+"Beech-Nut snacks, select varieties",not retailer specific,BEECHNUT,21cc8f9b636aa98cea8d97aa971728949562ccdd7fbaca516a5f12e9ac515da2
+"Sargento® products, select varieties, buy 3",not retailer specific,SARGENTO,eb5e88cac33b03ff628f820a43ccfd3396306a3776ed73bacbe25a056135fecd
 Spend $250 at ACME,ACME,ACME,38a3c64d573e88c788fd0fcae34de36653e5a954be7385ec0a7517b433f6b7b7
 Wings OR Cheesy Breadsticks at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,468361642026ec49c8220c4c0e957718526ca1dac25fec95c922936b778675bf
 "Butterball, select varieties, spend $10 at Smith's",SMITHS,BUTTERBALL,8a5787820fe5c48ee3585e3c32ba762241433dc80b851fe2c276ec8527201b0c
 "Perfect Keto Collagen Peptides, online at Amazon",AMAZON,PERFECT KETO,b8c804e002388b2f939ffbb4ece2cb443da8b202c4f873ff62e37b2e4ec28bea
 "Perfect Keto MCT Oil Powder, online at Amazon",AMAZON,PERFECT KETO,6e006de939b3da73f088d82c52fda045cb05ec5d15ad34beb173ffd8badb90f5
-Hellmann's® OR Best Foods® AND Sargento® Cheese Slices,,HELLMANNS BEST FOODS,90111a6b408ffaefc991d5ff7ed0a4099ec9e9b760a6ba8270215eb37b61b8d3
-Brita® Pitcher AND Filter,,BRITA,cc4c25d36361f00c6139f3e61a71637b1f4f91684e2a7e83da39edb04befd0a5
+Hellmann's® OR Best Foods® AND Sargento® Cheese Slices,not retailer specific,HELLMANNS BEST FOODS,90111a6b408ffaefc991d5ff7ed0a4099ec9e9b760a6ba8270215eb37b61b8d3
+Brita® Pitcher AND Filter,not retailer specific,BRITA,cc4c25d36361f00c6139f3e61a71637b1f4f91684e2a7e83da39edb04befd0a5
 Spend $90 at Star Market,STAR MARKET,STAR MARKET,4c7baa5b06e3fe8bf60571a82c50d6b1786168043a89c83f55905f60f115b5a7
-"SNICKERS®, select sizes, buy 1",,SNICKERS,77c587e7d769464ae34ef7715d20b295ddebe47b56a064e03cccacd796ea1844
-"Kodiak® products, select varieties, spend $10",,KODIAK CAKES FLAPJACK & WAFFLE MIX,2e72d911daf9dffd6d9a2056743f8c4c86f54ae49b9d62d94eaf06f0b724de10
-Bays® English Muffins,,BAYS,40992dd729cdd08a21a5e143039a4dbba12e0f69af15236a8398183b8b4d61c9
-"Super Coffee, 12 ounce single serve, buy 3",,SUPER COFFEE,b6c05aa8c3f4acbc55a45620991b405fa318a48ba653ba08e7d5bac58bc85843
+"SNICKERS®, select sizes, buy 1",not retailer specific,SNICKERS,77c587e7d769464ae34ef7715d20b295ddebe47b56a064e03cccacd796ea1844
+"Kodiak® products, select varieties, spend $10",not retailer specific,KODIAK CAKES FLAPJACK & WAFFLE MIX,2e72d911daf9dffd6d9a2056743f8c4c86f54ae49b9d62d94eaf06f0b724de10
+Bays® English Muffins,not retailer specific,BAYS,40992dd729cdd08a21a5e143039a4dbba12e0f69af15236a8398183b8b4d61c9
+"Super Coffee, 12 ounce single serve, buy 3",not retailer specific,SUPER COFFEE,b6c05aa8c3f4acbc55a45620991b405fa318a48ba653ba08e7d5bac58bc85843
 "Sara Lee® bread select varieties, buy 2",WALMART,SARA LEE,4f3799b2b35ebc0a1abbf8156e1e3e5bd7f32378182d42df360979b083a8af6d
-GOYA® Coconut Water,,GOYA,a30b1861ccaab9b7da3842a567a15859df179a68da8de5e598158b9349f2402b
+GOYA® Coconut Water,not retailer specific,GOYA,a30b1861ccaab9b7da3842a567a15859df179a68da8de5e598158b9349f2402b
 Spend $35 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,0c63ccf8aaae4fc9b473759bd331df2851c67c7928cdfeb16f6b24c1e882c190
 Spend $110 at Randalls,RANDALLS FOOD MARKETS,RANDALLS,986deed9f0b263ad40663d568fd41b628e4f5b34b5bc68f168200c8cfbef606d
 "Reese's Chocolate Cones, 8 count at GIANT OR MARTIN’S",GIANT FOOD,KLONDIKE,dc2fbda7d59fb16c082841697ef9e45d8e1b4dffe36e231e87a80ca3ebad5cd9
 Whole Pizza Pie at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,aa38a729cefe90ca4f21dd0dbc588962e5bf62470d3bfb4ec2b53bc2b40241a8
 Shop 2 times at Star Market,STAR MARKET,STAR MARKET,5e798b30256e86e2cac7b2ff07739794824010a67d24e528edafe5c0c538429a
-"Hidden Valley® Ranch Seasoning, select varieties",,HIDDEN VALLEY RANCH,7049e1fc3dc3ff0aaf942b43285870d2e10f240283454b2b4c7f03ca175533b6
-"General Mills™ products, select varieties, spend $12",,ANNIES HOMEGROWN GROCERY,92d91d16d7292bf51734de7a4ca249f9628c56b1e45965385de79eceda1edfd9
+"Hidden Valley® Ranch Seasoning, select varieties",not retailer specific,HIDDEN VALLEY RANCH,7049e1fc3dc3ff0aaf942b43285870d2e10f240283454b2b4c7f03ca175533b6
+"General Mills™ products, select varieties, spend $12",not retailer specific,ANNIES HOMEGROWN GROCERY,92d91d16d7292bf51734de7a4ca249f9628c56b1e45965385de79eceda1edfd9
 Blue Apron Meal Kits,BLUE APRON,BLUE APRON,6e0a29e23824e0bbdab1d9de8a0423e815247d40ee39215edaecb9993d7f6dc2
 "Aleve® products, select varieties, 80 count+ at Walmart",WALMART,ALEVE,237f0f2489c734a82f23174ee778959e1386137c9aca1e00da4f8d9496082144
 "Welch's® Juicefuls® Juicy Fruit Snacks, 14 count, at Target",TARGET,WELCHS FRUIT SNACKS,5fa49951b17d5860e59a75215012037c46504444ccbc914f8258e14b92cc3f2d
-"Welch's® Fruit Snacks, select varieties, 6 count+, buy 2",,WELCHS FRUIT SNACKS,9606133b935682d296f403ab6735beb2127dda095f381abc4b9f89786b527f3c
+"Welch's® Fruit Snacks, select varieties, 6 count+, buy 2",not retailer specific,WELCHS FRUIT SNACKS,9606133b935682d296f403ab6735beb2127dda095f381abc4b9f89786b527f3c
 "Sign up for McAlister's Deli Rewards, tap for details",MCALISTERS DELI,MCALISTERS DELI,8d0c3e5e10bc5f95fccf78560d86cc4120c1b92c779ecc40b9cbcdbe7a7e6b61
 "Arbos Cheese Dip, 12 ounce, buy at Central Market",CENTRAL MARKET,ARBOS,b6edf7f2574f8eb685050a4e0d3db2f47521831dcdafe40694a2785fabb1feb7
 L'Oréal Paris Excellence Hair Color at Target,TARGET,LOREAL PARIS HAIR COLOR,0074c9f65ffdc3b75bd60137aedca2ea5f5abd47fc74b97c71395a625025b50f
 "Kradle, select varieties, spend $20 at Walmart",WALMART,KRADLE,39070faed3a1504f02bc5b9463ab63c7b0cbcb2e70e43dbc8ec292f118efc37e
 Frozen OR Fountain Drink at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,e531437a9e20a918cc562011f93f2e0659f34efb5d9e8045a68de96ac4ec0725
-"Arnold, Brownberry, Oroweat® Keto bread, buy 2",,ARNOLD BROWNBERRY OROWEAT,e51dcc1ef77f49600ca6ac7a9b83875c235e6f95fd18b66f222a621371defa3a
+"Arnold, Brownberry, Oroweat® Keto bread, buy 2",not retailer specific,ARNOLD BROWNBERRY OROWEAT,e51dcc1ef77f49600ca6ac7a9b83875c235e6f95fd18b66f222a621371defa3a
 Shop 2 times at Shaw's,SHAWS,SHAWS,213e9eb03ced231d2955821639de3923034632398c959e70f8fe1a91e30cdc2f
-"Welch's®Fruit Snacks, spend $8",,WELCHS FRUIT SNACKS,0ec80c23753b58f975e94d33e3e9af984b98485330b5919b120c4a792b75d4b2
+"Welch's®Fruit Snacks, spend $8",not retailer specific,WELCHS FRUIT SNACKS,0ec80c23753b58f975e94d33e3e9af984b98485330b5919b120c4a792b75d4b2
 "Children's Astepro® Allergy, 22 count at Dollar General",DOLLAR GENERAL STORE,ASTEPRO,7c2ce46d4c63e68671df2f4c3d6c410d7829a9a6ad7f890d3d37aaec69b1b4fc
 Spend $10 in-store at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,87cd5eb509cfb035fb55996eb324ae044553b9b49e3185bcb35315ac71d91adf
 "Fresh bakery item, select varieties, at Casey's",CASEYS GENERAL STORE,CASEYS GENERAL STORE,c218de2b876542edf789d70ef0a60be2dab28a2d40650308fd5ac94888978338
-"SNICKERS® chocolate candy bar, select varieties",,SNICKERS,9ca50970305e71e0491c9294aa4fae5bc6c0073582042eb3e1fbd934c916fa3b
-Rao's® Frozen Pizza,,RAO'S,9c8e93b4e15e812321b41738b50db5cd083b4b9fc9539cb6076a36b1e2b0ecdc
+"SNICKERS® chocolate candy bar, select varieties",not retailer specific,SNICKERS,9ca50970305e71e0491c9294aa4fae5bc6c0073582042eb3e1fbd934c916fa3b
+Rao's® Frozen Pizza,not retailer specific,RAO'S,9c8e93b4e15e812321b41738b50db5cd083b4b9fc9539cb6076a36b1e2b0ecdc
 "GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FRED MEYER,GATORADE,6e375e9be209e49661ace44a1e8c7e92c5875c41b38fd1dc05d6b6ab5ca7b5cd
-"Bimbo® sweet baked goods, buy 2",,BIMBO,ee3a5e674a5e7c916c3dc298f2975b048b9f1d0a669a9936ab17c6b61ac246f2
+"Bimbo® sweet baked goods, buy 2",not retailer specific,BIMBO,ee3a5e674a5e7c916c3dc298f2975b048b9f1d0a669a9936ab17c6b61ac246f2
 Any Shaw's receipt,SHAWS,SHAWS,52069742b9ddea891cdbbed9d9a057f07e675a452b951e6188e3e128ecc0fbca
 "Gorton's, at select retailers",STOP & SHOP,GORTONS,8546dbebd78c19309750fa13047f0243fbc3d5781e4d6989f48d3a2a7d7d02c6
 "Butterball, select varieties, spend $10 at Food 4 Less",FOOD4LESS,BUTTERBALL,27776c630d003f1fa71358183030c077414849f367a36665de948029b8ce46cc
-NatuChips® Plantain Chips,,NATUCHIPS,d8b251363d39c557b56a98be14cd07a5cf021afb43a97d6fa45af39359f5fe0a
-"Beech-Nut pouches, buy 8",,BEECHNUT,0dde5a6a08d05b62e1f6243eddd8ce2c381ebb34d053ca4fcb94931810a321ec
+NatuChips® Plantain Chips,not retailer specific,NATUCHIPS,d8b251363d39c557b56a98be14cd07a5cf021afb43a97d6fa45af39359f5fe0a
+"Beech-Nut pouches, buy 8",not retailer specific,BEECHNUT,0dde5a6a08d05b62e1f6243eddd8ce2c381ebb34d053ca4fcb94931810a321ec
 Spend $45 at Zaxby's,ZAXBYS,ZAXBYS,2e022d7e1ae2ef23ddb1c68cbf99b4ec1d9ba9de88b171bc8a7416545bd0f7a2
 "Back to the Roots Raised Bed Gardening Kit with Soil, Seeds and Plant Food, at Target",TARGET,BACK TO THE ROOTS,0f3bfe7e25e051b5672c596829b96b8c70115dc98aaf4ceff26e9ed5a3298d3d
-"Ben & Jerry's®, select varieties, spend $12",,BEN AND JERRYS,3572164495c6598a16ba269c50d7c4f19115d413d494268b67016689dd7920a7
+"Ben & Jerry's®, select varieties, spend $12",not retailer specific,BEN AND JERRYS,3572164495c6598a16ba269c50d7c4f19115d413d494268b67016689dd7920a7
 Any ACME receipt,ACME,ACME,f31fd85c4e8d0cc7b648a724d2e69b717d414eeb4f67b878bddea8933ab6ed5b
 Spend $220 at Tom Thumb,TOM THUMB,TOM THUMB,393947b8e0582ee1ad7e7642fd3050a694111a502b81606271e18f0bf7b55b48
-"Promised Land Dairy Milk, 52-ounce",,PROMISED LAND DAIRY,2a9210ebe7d94428ea95bc215e34152af54706b79b0f4be9a3086b723ccc702c
+"Promised Land Dairy Milk, 52-ounce",not retailer specific,PROMISED LAND DAIRY,2a9210ebe7d94428ea95bc215e34152af54706b79b0f4be9a3086b723ccc702c
 "Welch's® Fruit 'n Yogurt® Snacks, 18 count, at Walmart",WALMART,WELCHS FRUIT SNACKS,6fdae19ddfd737984e7745f60bc47b813a9bfd22e1d8c4524bbb3449325e8f3c
-Hidden Valley® Ranch Seasoning Shaker,,HIDDEN VALLEY RANCH,b64c44bbc37959bfc039f75d475cfadc8063420ffd941e9dd321259a455f9f81
+Hidden Valley® Ranch Seasoning Shaker,not retailer specific,HIDDEN VALLEY RANCH,b64c44bbc37959bfc039f75d475cfadc8063420ffd941e9dd321259a455f9f81
 "CORE® Hydration, select varieties, at Walmart",WALMART,CORE HYDRATION,45c11c4f9fd6ca6bdf1189b080bd90a6d027f36a3082dafbeda8186ddcef9471
 When you join Costco as a Gold Star Member* (New Members Only),COSTCO,COSTCO,a16db33f55d6c6d541705ee95ba7532858ec9610ff26b6d14ca336772ae9ee95
 Whole pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,7b2f37921e14f9e43f7660a304d18c084331df2165f2dda750833d9704ead535
 Spend $40 at Farmer Boys,FARMER BOYS,FARMER BOYS,14778fbb26ccfb03110328067154ae3514188af935713781956434bc05a28963
 "Colgate® Toothpaste AND Colgate® Toothbrush, select varieties at Walmart or Target",TARGET,COLGATE TOOTHBRUSHES,1de74da3fd48af5986f38285b051d4dd9aab0b5931d368d28eac90bc65b96f2b
 "L'Oréal Paris Hair color, select varieties, spend $25 at Target",TARGET,LOREAL PARIS HAIR COLOR,629df0ed924c56e65d69dee30f6eb5e984ba594bb5452eb2fb886d4eaa923a29
-"TWIX®, select varieties",,TWIX,a32418d1043a614c3ea25d4d66f1f191c7903b852acb0d4c29fb0694930e1b5a
+"TWIX®, select varieties",not retailer specific,TWIX,a32418d1043a614c3ea25d4d66f1f191c7903b852acb0d4c29fb0694930e1b5a
 Spend $15 at KFC,KFC,KFC,35e2620bcffecbbba923d29032e08cb0155ed064a23eacb1e0a095ac08fd4c79
 Spend $275 at Vons,VONS,VONS,48133be655ff6b8aa55bf17baf0ac29b84d305ba0f202acb98d29feffe78786c
-"EXTRA®, select varieties",,EXTRA,d698506d36b54b971155a6ecedbbd8d5451634bc7de496fd1e0b2f50b4192dac
-"Ben & Jerry's® Doggie Desserts, 4 ounce, buy 2",,BEN AND JERRYS,0b882d303ea6edb7cda63e5caabcadd6203de70ac6d9f32afec1b434a07c7cf6
+"EXTRA®, select varieties",not retailer specific,EXTRA,d698506d36b54b971155a6ecedbbd8d5451634bc7de496fd1e0b2f50b4192dac
+"Ben & Jerry's® Doggie Desserts, 4 ounce, buy 2",not retailer specific,BEN AND JERRYS,0b882d303ea6edb7cda63e5caabcadd6203de70ac6d9f32afec1b434a07c7cf6
 "Klondike Cones, spend $10 at Walmart ",WALMART,KLONDIKE,d306f37cd58e4258cce42e00a969f5ffdb3220aba6c4583068afda81074ff4fe
 "Reese's Peanut Butter Bar, 6 count, at GIANT OR MARTIN’S",MARTINS FOODS,GOOD HUMOR,3927015270264742327a0e678eb4dff7e43c0a337ca69867dd6d55ec4b1290a2
 "Beyond Steak™ Plant-Based seared tips, 10 ounce at H-E-B",H-E-B,BEYOND MEAT,c04affd30e6375a968ddd8651af1b07e3b3ff26093a1a9edeb55d50d62906622
 "Kradle, select products, online at Chewy.com",CHEWY,KRADLE,41e0edf7cb6859b20c2025bee28ccaaae2e9af8b58f91bc3630507eee80db278
 Spend $120 at Star Market,STAR MARKET,STAR MARKET,5c4637260830e9d0bd6d63295f149ffb770f284b6f5b9f978223753feaf5c227
 Shop 2 times at Vons,VONS,VONS,991d2bcc64ff14ea77e69a62486b404bd9837776fa2282f5befca9bb23e6c645
-Wonderworks™ Keto* Friendly Cereal,,WONDERWORKS,4808135e54ae11417e95293b965aa70b22410f2e52b9c81a9dbb227df07f79ea
+Wonderworks™ Keto* Friendly Cereal,not retailer specific,WONDERWORKS,4808135e54ae11417e95293b965aa70b22410f2e52b9c81a9dbb227df07f79ea
 "MTN DEW® Kickstart, 16-ounce 12 count, select varieties, at Amazon Storefront*",AMAZON,MOUNTAIN DEW,762d6b39f67447b2896256547267ee6339e80ac762fd102983df1edce15991cc
 When you join Costco as an Executive Member* (New Members Only),COSTCO,COSTCO,19ec894f90fa6065bde909b30cfccf43e368f90141f131e63e87cefcb6b04e06
 "Adult Astepro® Allergy, 22 count at Dollar General",DOLLAR GENERAL STORE,ASTEPRO,fdecc0a19aa4d0a2cc1b3bcc738d893d0090bd24c05ebaf61b50c2d210d07aed
 Shop 2 times at Pavilions,PAVILIONS,PAVILIONS,af4e625b514b1c3173519d5b42ff02cc436c147edee67dffc9af2812cf3a7f09
-"SKITTLES®, select varieties",,SKITTLES,4da4b526bf82d9fb45fdbfc6ea5e2a431e6d76140e38828bfe632ed7b9b0afdb
+"SKITTLES®, select varieties",not retailer specific,SKITTLES,4da4b526bf82d9fb45fdbfc6ea5e2a431e6d76140e38828bfe632ed7b9b0afdb
 "Stubborn Soda OR Bundaberg Ginger Beer, select varieties, at Amazon Storefront*",AMAZON,STUBBORN SODA,730c206692713c95729c818f43344e222a06d63f966ad5e6ac501758ab08febf
-"BallPark® buns, buy 2",,BALL PARK POP UPS,e0db7a3fdca0c5adf033616f97b6d225d303a8867630304be3729f1c06f6c5b8
+"BallPark® buns, buy 2",not retailer specific,BALL PARK POP UPS,e0db7a3fdca0c5adf033616f97b6d225d303a8867630304be3729f1c06f6c5b8
 12 Pack OR 2 Liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,6b51ca91094e20b3667b87a2573dbccd52ba601be64a594fc86771e92c839b5d
 Spend $220 at Star Market,STAR MARKET,STAR MARKET,8cd6f87a72c2f776a15acff54e3fcdd11e82aab4e667758f0986decf8d8fb16f
 Frozen OR Fountain Drink at Casey's ,CASEYS GENERAL STORE,CASEYS GENERAL STORE,c1a1a7bf14cde49fa556fd87716141f91bd14dc2c28db5c0bf0c12fc28b24830
@@ -239,148 +239,148 @@ Spend $210 at Randalls,RANDALLS FOOD MARKETS,RANDALLS,d87ad16700ec90b71d8b3e3ab9
 Visit OR order online from Casey's 5 times,CASEYS GENERAL STORE,CASEYS GENERAL STORE,539c7dd29d3c33f5fffe785e492017417db7835dd076a4618f5d1c0a73509820
 Any Tom Thumb receipt,TOM THUMB,TOM THUMB,3ca4f395005cd76ebc1652f3ad40cb063ca4eafb463380a74433be13b327a7d0
 "Butterball, select varieties, spend $10 at Fry's Food Store",FRYS FOOD STORE,BUTTERBALL,aeb0ea729bb46822c309741d75a14d72ce805843aedff3f2a1782479d5fee3a3
-"ORBIT®, select sizes, buy 1",,ORBIT,e6fcb7cafd9b836b82cc919ae0de9cf35f4ebec0a96aa0dd0d70b311ca19562b
+"ORBIT®, select sizes, buy 1",not retailer specific,ORBIT,e6fcb7cafd9b836b82cc919ae0de9cf35f4ebec0a96aa0dd0d70b311ca19562b
 12 pack OR 2 liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,4dd1b018242e455caba5259e4dbc4a72b38535b62b721ecb1226024139780e46
-"Molson Coors®, select varieties, 12 Pack+, buy 2",,TOPO CHICO HARD SELTZER,8dd55f1afbbd4f78f1b6f3dc948a3a52505debe7b5cb831e3be69a4ce10cfb24
-"Thomas'®, select varieties, spend $10",,THOMAS,00882a89b6ea9c467639a106d29b7d19a1176cde0b255aadc4cd1a598e6778f4
+"Molson Coors®, select varieties, 12 Pack+, buy 2",not retailer specific,TOPO CHICO HARD SELTZER,8dd55f1afbbd4f78f1b6f3dc948a3a52505debe7b5cb831e3be69a4ce10cfb24
+"Thomas'®, select varieties, spend $10",not retailer specific,THOMAS,00882a89b6ea9c467639a106d29b7d19a1176cde0b255aadc4cd1a598e6778f4
 "Beyond Steak™ Plant-Based seared tips, 10 ounce, buy 2 at Target",TARGET,BEYOND MEAT,d9f5e1b95bef1882aca840107e87ab6fbf9414e926298f53f9d6a19b50d49f83
 Whole Pizza at Casey's ,CASEYS GENERAL STORE,CASEYS GENERAL STORE,607912dc385b5662f39e2a904f30fe8d488a55d2f6b9f5c7cd9bb0ff48293456
-"EXTRA®, select sizes",,EXTRA,12b36af5cde2bc69f029a71bdb37b4ccd76e363f7057fc656d5e89df41f809df
+"EXTRA®, select sizes",not retailer specific,EXTRA,12b36af5cde2bc69f029a71bdb37b4ccd76e363f7057fc656d5e89df41f809df
 Gorton's at select retailers,STOP & SHOP,GORTONS,002261a430bdf8083df7ab1211c5ce3503bef8987571bb5039c843d6c0a67710
-Brita® Standard OR Elite Filters,,BRITA,60bbc48d2da3f91c2a2d8e3e39d01485536dd078a6160352249af8c4cfbe1a73
+Brita® Standard OR Elite Filters,not retailer specific,BRITA,60bbc48d2da3f91c2a2d8e3e39d01485536dd078a6160352249af8c4cfbe1a73
 Spend $300 at Shaws,SHAWS,SHAWS,aebad0c954bb44ef37fa131ec8dfd7616aec5f7bf72698b016fe519cc86866f9
 Spend $50 at Fresh Thyme Market,FRESH THYME MARKET,FRESH THYME MARKET,ca5e0e569f9c7ad643d37f55fbdeab604f53bc4a9f2c1e1d865dd2945cf15fb0
 "Starry™ Lemon Lime Soda multipacks, at Kroger",DILLONS GROCERY,STARRY,7f137cfaeccbf077ce66f383d66732d2e074f84fb95dd78c50e142594decb86a
-"Barilla® pasta, select varieties, buy 3",,BARILLA,986668ed8159380d3063fdfaac6eaf54f3194ccefaa5b8d139d26e649274a14f
+"Barilla® pasta, select varieties, buy 3",not retailer specific,BARILLA,986668ed8159380d3063fdfaac6eaf54f3194ccefaa5b8d139d26e649274a14f
 "Fresh Bakery Products at Casey's, select varieties",CASEYS GENERAL STORE,CASEYS GENERAL STORE,21c6e24c3cf5662b4d62f535739fe513ff5422c3a120616d6395be599e8874d6
-"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 2",,VIZZY,226ca3e0e981aeef624082a557485a0bf07ab4cf727a27aad43028d4b7502dfb
+"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 2",not retailer specific,VIZZY,226ca3e0e981aeef624082a557485a0bf07ab4cf727a27aad43028d4b7502dfb
 "Kradle, select varieties, online at Amazon",AMAZON,KRADLE,df37c0d1cf77870db26664a39af820f9243cabf7ff55af853d708a0e2b86f088
 "Starry™ Lemon Lime Soda, 7.5-ounce 10 pack, at Amazon Storefront*",AMAZON,STARRY,b495e098aa43fa67211abf561b39789b2411809b5f0340a36861e59e0e59e3ed
 "EVOLVE® Plant-Based Protein Shake, 4 count, select varieties, at Whole Foods",WHOLE FOODS MARKET,EVOLVE,a3e924e968b7e2c34a88587bacc79f5bf663f0ce5e6b805773cc0ae2b886b90b
 "Burt's Bee's® Facial Wipes, select varieties, 30 count at Walmart",WALMART,BURTS BEES,d0ee8e4e5fa8cd623b3b68b99b3bb0e0b5b13eb5df1b010c45c38f9925a98e33
 "Aleve® products AND AleveX™, select varieties, at Walmart",WALMART,ALEVE,53206ca7d8bb05db7925c0a200643dc2ed0cd75bf947de8408b3ba14b76e69c9
-"Beyond Meat® Plant-Based products, spend $15",,BEYOND MEAT,793a22ae27f5900c59d55aa008cdc5596f88991cc412d3cd6ca64763e70ca8d0
-"GOYA® Adobo Seasoning, 8 ounce+",,GOYA,516f8b7718d52de48e021ee49efd1ff808e44340a8ad01854590c0e984e6e87b
+"Beyond Meat® Plant-Based products, spend $15",not retailer specific,BEYOND MEAT,793a22ae27f5900c59d55aa008cdc5596f88991cc412d3cd6ca64763e70ca8d0
+"GOYA® Adobo Seasoning, 8 ounce+",not retailer specific,GOYA,516f8b7718d52de48e021ee49efd1ff808e44340a8ad01854590c0e984e6e87b
 "Tyson Products, select varieties, spend $15 at Walmart",WALMART,AIDELLS,594f8125b4f775e2457392084fc254e3107bdf1a98ee35964e2babede8c51100
 Spend $210 at Safeway,SAFEWAY,SAFEWAY,23a8f3dc14a45400698c1959d48b627aba64f4c89e70e676a38ee7e5f886d29b
 Klondike Cones at Walmart ,WALMART,KLONDIKE,d703320f57577282f1f7739a0140879a587de9fe688b6f40a701cd89dea1cb90
 Spend $110 at Albertsons,ALBERTSONS,ALBERTSONS,5340c867ef07948c584a4c9aa7809750db9de37dfb6713cb033afeac42825af6
 "Bubbies Pickles, Sauerkraut, OR Condiments at Whole Foods or Sprouts",SPROUTS FARMERS MARKET,BUBBIES,b2297e27219cff938007165fc03903d3acf537a7a358b51e453be528e1e5c0b1
-"Sara Lee® or Alfaros® Artesano bread, buy 2",,ALFAROS,dda9cb118f90bb6c1f65fb18faddb083f9a2ea03f276e995826372d66e13c387
-"Beyond Meat® Plant-Based products, spend $20",,BEYOND MEAT,ec5302d3c2920f210da63249fd09131d8f9cc1b33534640d43b0435e47dff02b
+"Sara Lee® or Alfaros® Artesano bread, buy 2",not retailer specific,ALFAROS,dda9cb118f90bb6c1f65fb18faddb083f9a2ea03f276e995826372d66e13c387
+"Beyond Meat® Plant-Based products, spend $20",not retailer specific,BEYOND MEAT,ec5302d3c2920f210da63249fd09131d8f9cc1b33534640d43b0435e47dff02b
 Spend $10 on Casey's branded packaged products,CASEYS GENERAL STORE,CASEYS GENERAL STORE,172ea7d0860768b21439d758faf3249ac4b077a1b8e265262d601bc90a4acab1
 Any Randalls receipt,RANDALLS FOOD MARKETS,RANDALLS,18955a9bdb4a55bc45b6b10846e0aa5bca61987912e02e148c4ad09f8bc2106a
 "Arber, at Target",TARGET,ARBER,25b6618e92d84c2672e444fde98c4ba32f18a2741a0781629ca46a45db8c1a69
-"Häagen-Dazs®, 28 ounce, at GROCERY* stores",,HAAGEN DAZS,b3c46d166e9b4e54224a2198086f3bff8c5050efede27e930ac19b3580c6a92a
+"Häagen-Dazs®, 28 ounce, at GROCERY* stores",not retailer specific,HAAGEN DAZS,b3c46d166e9b4e54224a2198086f3bff8c5050efede27e930ac19b3580c6a92a
 Spend $130 at ACME,ACME,ACME,d5ac55d124ccda24ec1a956481f2b395c9c175c66cb3976446cdcc66b24f192b
 "Spend $110 on a Full-Priced new Plus Membership and receive an ADDITIONAL 10,000 points",SAMS CLUB,SAMS CLUB,bd3d3e4da6946e5f764dd2f8db3389a95859110def7240e4a23ce49b69bc30cd
 "Butterball, select varieties, spend $10 at QFC",QFC,BUTTERBALL,8227f378feb3de49aa4d5a61f408cd4190e43838dafc237e82283f4ed5538405
 Spend $100 at Pavilions,PAVILIONS,PAVILIONS,f470975849d4df32bf03637dac33facd5c8ac861103e9c27a42da20bd2017fe9
-"Glad® Trash Bags, 4 OR 8 Gallon",,GLAD,270b45a1ea0d0c8248c6a0c1bf5321be9534f51c083787997b369d27199999b2
-Tostitos® Toppers™,,TOSTITOS,49d734e27c51f615ed4a484a2c315bc62b0400c6c4f112f3162a0afe551e8c95
-:ratio™ KETO* Friendly Cereal OR Granola,,RATIO,dc0683c3c2b93938ae269a40acd28f8bf617ecef8bb080686722741db5594ea1
+"Glad® Trash Bags, 4 OR 8 Gallon",not retailer specific,GLAD,270b45a1ea0d0c8248c6a0c1bf5321be9534f51c083787997b369d27199999b2
+Tostitos® Toppers™,not retailer specific,TOSTITOS,49d734e27c51f615ed4a484a2c315bc62b0400c6c4f112f3162a0afe551e8c95
+:ratio™ KETO* Friendly Cereal OR Granola,not retailer specific,RATIO,dc0683c3c2b93938ae269a40acd28f8bf617ecef8bb080686722741db5594ea1
 "Burt's Bees® products, select varieties, at Walmart",WALMART,BURTS BEES,65812abef19f6f31503de7d7ca4ec0c49dce85ebca990eec1c48d42f8cbcdfc5
-"Bio-Oil® products, select varieties",,BIO OIL,74452c3b362094647c00ee841890014442e02dd6cfc62b6445e6123dc0f39f0f
-"André® California, Champagne OR Sparkling Wines, 750mL bottle",,ANDRE,3abe0be71f7295d7f6bd7ace3c59ed906265da644d5a8cf8798cc53cbf89a834
+"Bio-Oil® products, select varieties",not retailer specific,BIO OIL,74452c3b362094647c00ee841890014442e02dd6cfc62b6445e6123dc0f39f0f
+"André® California, Champagne OR Sparkling Wines, 750mL bottle",not retailer specific,ANDRE,3abe0be71f7295d7f6bd7ace3c59ed906265da644d5a8cf8798cc53cbf89a834
 Spend $20 at Farmer Boys,FARMER BOYS,FARMER BOYS,a88b1f821a7d2f6ed29648d33497de14c35d5ad9f9a4a46b4cdad00bbcadee61
-"Any General Mills™ products, spend $50",,ANNIES HOMEGROWN,a3e332331ca1901d1dfb03358a5626cf5b1c5ed601871b61330360d27535f8be
-Chosen Foods® Dressings,,CHOSEN FOODS,54d8620fc06bcee653588b41ab75f8cd375680039e95811fee65d76d2ee371e2
+"Any General Mills™ products, spend $50",not retailer specific,ANNIES HOMEGROWN,a3e332331ca1901d1dfb03358a5626cf5b1c5ed601871b61330360d27535f8be
+Chosen Foods® Dressings,not retailer specific,CHOSEN FOODS,54d8620fc06bcee653588b41ab75f8cd375680039e95811fee65d76d2ee371e2
 Spend $30 at Dickey's Barbecue Pit,DICKEYS BARBECUE PIT,DICKEYS BARBECUE PIT,df3e1669d0fe33e62e85712973a54a0b8e0891c2befbde87cc3daa829f0ecb92
-Degree for Men OR Women Dry Spray,,DEGREE,8688c5faf9d53153d2f589ea759a60aa7d5ec9176a85eb96afe9c550b265c902
-"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 3",,VIZZY,7b43cb57d1e3167f2394a1f3d0c5f211b7818851151d979c2fa0b36fe2cf9512
+Degree for Men OR Women Dry Spray,not retailer specific,DEGREE,8688c5faf9d53153d2f589ea759a60aa7d5ec9176a85eb96afe9c550b265c902
+"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 3",not retailer specific,VIZZY,7b43cb57d1e3167f2394a1f3d0c5f211b7818851151d979c2fa0b36fe2cf9512
 Back to the Roots Microgreens Grow Kit OR Seed Refill at Walmart,WALMART,BACK TO THE ROOTS,042d8b9f3e70489bf9f412f4d7b4fbc37ca311b94ae77f11ed7808933b715348
 Spend $40 at KFC,KFC,KFC,0ba59e0eeb71cad63750b9dc2f091a20df1de51a001ab299b7fb5736bd6d3718
 "Bai® Antioxidant, 6 pack, at Walmart",WALMART,BAI,2caa5882e5f871d4271d565df20e019efdd36f6f43b122ee5c41899d60387b2a
 Spend $20 at Dickey's Barbecue Pit,DICKEYS BARBECUE PIT,DICKEYS BARBECUE PIT,65e8ae47ce068a9d8617668c216768acf66a9bcbb4985d58afa6ab8a14b44103
 Spend $25 at TGI Friday's,TGI FRIDAYS,TGI FRIDAYS,f14a7f3f4494ec28d3e10216d750ff404967c749bc9400cbd83b9269555323a7
 "L'Oréal Paris Hair color, select varieties, spend $9 at Target",TARGET,LOREAL PARIS HAIR COLOR,7d558870e1905d7e2ba010680f045e01b32b668e3c0efc543ce10686a72ca216
-"Sargento Sliced Cheese, spend $18",,SARGENTO,d62402b1897f737d6553c37387214c4c0ee94026cc06b72db7cfe3e6c08cb858
-"SKITTLES®, select sizes",,SKITTLES,ab0af93592f9c316ee65f9a6bb11f94de352f48960dce1a0449db07c66a2a070
-"LIFESAVERS®, any size, buy 1",,LIFESAVERS,d0e607e946ae5b5f026a562863d802504dfeb6406c0b1627446dee75f4a658ea
+"Sargento Sliced Cheese, spend $18",not retailer specific,SARGENTO,d62402b1897f737d6553c37387214c4c0ee94026cc06b72db7cfe3e6c08cb858
+"SKITTLES®, select sizes",not retailer specific,SKITTLES,ab0af93592f9c316ee65f9a6bb11f94de352f48960dce1a0449db07c66a2a070
+"LIFESAVERS®, any size, buy 1",not retailer specific,LIFESAVERS,d0e607e946ae5b5f026a562863d802504dfeb6406c0b1627446dee75f4a658ea
 "L'Oréal Paris Makeup, spend $30 at Target",TARGET,LOREAL PARIS COSMETICS,f022122e80848640bd7bec9f411509f7ffe7c0d82eb7a8fa145e73470622b249
 Spend $115 at Tom Thumb,TOM THUMB,TOM THUMB,e57aed8a89c38883f9319146842ca690dd8806c3a13e74f018f52cdb8f8eada3
 Any Randalls receipt,RANDALLS,RANDALLS,67ba784cdc281f13a5c7d3a5a9fef13de1187c5c8e99ec489b0292661d46d046
 Spend $75 at Randalls,RANDALLS,RANDALLS,413930be21ce3fbf2046f643718f36f23856954b2c3d3190876eadf3231da9a9
 Shop 2 times at Randalls,RANDALLS FOOD MARKETS,RANDALLS,674d43d3c2eebbe5658dc80d19576deb596e4c1c98ca062acd35a73655a01436
-"GATORADE® Fast Twitch®, 12-ounce single serve",,GATORADE,f0ccc3cb1ad49feba1cff2e40ee99fce2369c07bab8c3fbd6b0fb471494a9d74
+"GATORADE® Fast Twitch®, 12-ounce single serve",not retailer specific,GATORADE,f0ccc3cb1ad49feba1cff2e40ee99fce2369c07bab8c3fbd6b0fb471494a9d74
 Spend $10 at Nekter,NEKTER JUICE BAR,NEKTER,d158faddf72c8f871d0329ffb815a60210e0b2c2e547ea26dc5bfacae192664f
-"Brownie Brittle® Snacks, select varieties, buy 2",,BROWNIE BRITTLE,59034cff00bd5096b03dcfbbfa41346ad5d6e678805f81fab93dca41372e264b
-Cheerios™ Oat Crunch Berry Cereal,,CHEERIOS,8ff79d5159bca68deeabd2709a5910b4c38256a05e6db08c119fac6fad57a794
-Glad® ForceFlex Max Strength Trash Bags,,GLAD,f2de12961c9373b2692f77eb939b4d913c27f024b22b3e7a9abe7aa890776f67
+"Brownie Brittle® Snacks, select varieties, buy 2",not retailer specific,BROWNIE BRITTLE,59034cff00bd5096b03dcfbbfa41346ad5d6e678805f81fab93dca41372e264b
+Cheerios™ Oat Crunch Berry Cereal,not retailer specific,CHEERIOS,8ff79d5159bca68deeabd2709a5910b4c38256a05e6db08c119fac6fad57a794
+Glad® ForceFlex Max Strength Trash Bags,not retailer specific,GLAD,f2de12961c9373b2692f77eb939b4d913c27f024b22b3e7a9abe7aa890776f67
 "GATORADE® Fast Twitch®, 12-ounce single serve, at Kroger",DILLONS GROCERY,GATORADE,aa82b0ae428773664922ade8a457c01da204eff5a16f597367a72c1fc299bc16
 Spend $10 at CVS,CVS,CVS,34c426aac16792b1dd255e5104d844287c73fdaea9ce9d1d749c3c87c3ca6a95
 "OxiClean™ Laundry Stain Removers, select varieties at Walmart",WALMART,OXICLEAN,3aa6dd1acda8c0ea079527eb0f9df8e841b532915daa5a8c2c06248b1933fa6b
 Country Crock® Plant Based Cream at Walmart,WALMART,COUNTRY CROCK PLANT BUTTER,2a7c14f1b3ea7077f4b9c4b0de959b8124dfad73b3f58fa77428df1521f7b5c5
 2 Pack OR 2 Liter AND Whole Pizza at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,993873d2964452ba33d63ae27fb9dac406534abab52d07dbab27c12c9313df39
-Arnold® Grains Almighty,,ARNOLD BROWNBERRY OROWEAT,84a60faca4ff62ffbdcd27161414dd87f0b957272af8a06c649f8495ae35a329
+Arnold® Grains Almighty,not retailer specific,ARNOLD BROWNBERRY OROWEAT,84a60faca4ff62ffbdcd27161414dd87f0b957272af8a06c649f8495ae35a329
 "Snuggle® Liquid Fabric Softener, at Walmart",WALMART,SNUGGLE,5887b9beb998d67a3294517ec08fe6c9b56ce6d47a9c7e2125174c1ff177797b
-"Hidden Valley® Ranch Night Seasoning Mix, 1 count",,HIDDEN VALLEY RANCH,b3596f3711aef6cb0337969a434bda53214d2f094db168813aa2e52a9bef5dd2
+"Hidden Valley® Ranch Night Seasoning Mix, 1 count",not retailer specific,HIDDEN VALLEY RANCH,b3596f3711aef6cb0337969a434bda53214d2f094db168813aa2e52a9bef5dd2
 "Kradle, select varieties, at Pet Supplies Plus",PET SUPPLIES PLUS,KRADLE,fe8c00abf62c9b7b88b718f0e29b3b06f1bce5be3e70377f886c9b8d86659f00
 "Back to the Roots Soils, select varieties and sizes, at Lowes",LOWES HOME IMPROVEMENT,BACK TO THE ROOTS,8fded27f23ca25e1d8b62a4981e05027be5e2b61997ec493c15213b2a16ab241
 "Butterball, select varieties, spend $10 at Mariano's",MARIANOS,BUTTERBALL,86187ecbc16605a504760d1aaf6957aacda22e1bdcb8da2417b1aadec768140d
 "CORE® Hydration, select varieties, buy 2 at Walmart",WALMART,CORE HYDRATION,1ac7e510bbc353dff6f68297aa59a34d55cd9264bd7b126eb2c7b415773b30b0
 Spend $40 at Dickey's Barbecue Pit,DICKEYS BARBECUE PIT,DICKEYS BARBECUE PIT,35996f606676c84960c5838a4a2c21070ca644888fe842037190faef0c03ce1b
-"General Mills™ snacks, select brands, spend $10",,BUGLES,281ac560e206dd0fcfa8efa599d7b8a3150bbdcce00d23796068cab0550899b7
+"General Mills™ snacks, select brands, spend $10",not retailer specific,BUGLES,281ac560e206dd0fcfa8efa599d7b8a3150bbdcce00d23796068cab0550899b7
 "Back to the Roots Soils, select varieties, at Walmart or Lowes",LOWES HOME IMPROVEMENT,BACK TO THE ROOTS,fcb9b020fa156e4beca6eb6643ee9e24ff890aee0709d0e8e4e7851f51718c0a
-"Barilla® pasta, select varieties, buy 4",,BARILLA,2531530c832cdfb447b150d5d62e0a3d2e52cafc4228aa8a408ac33cddd4f3e7
-"GATORLYTE® OR GATORADE™ Fit Single Serve Bottle, select varieties",,GATORADE,e79e93981f9fbeb4c9a15db54fb2476c36a927a7a666a4e83af941b882c82f4a
+"Barilla® pasta, select varieties, buy 4",not retailer specific,BARILLA,2531530c832cdfb447b150d5d62e0a3d2e52cafc4228aa8a408ac33cddd4f3e7
+"GATORLYTE® OR GATORADE™ Fit Single Serve Bottle, select varieties",not retailer specific,GATORADE,e79e93981f9fbeb4c9a15db54fb2476c36a927a7a666a4e83af941b882c82f4a
 "Burt's Bees® Sensitive Lotions and Creams, select varieties, at Walmart",WALMART,BURTS BEES,692f4e9588d4c6df00221ed3716c1222ecf17e65aa622b7dee97fcf5229372bc
 "Arber, at Walmart",WALMART,ARBER,6303181551e3ead6901ab885f1f2b787913237cacd8adfb5d5af6f7839dfdc98
-"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 5",,VIZZY,fb62f0f8caca0c254a05a87a9ae72a146eb5b1fdcf0d92862fbd40d3b9775460
+"Coors Light®, Miller Lite® OR VIZZY™ 12 packs+, buy 5",not retailer specific,VIZZY,fb62f0f8caca0c254a05a87a9ae72a146eb5b1fdcf0d92862fbd40d3b9775460
 Any Pavilions receipt,PAVILIONS,PAVILIONS,c3c07052ec086e00831385e554f6bec44b883204375846e7d640cfc87acbbdaa
 Back to the Roots Grow Kits at Walmart or The Home Depot,WALMART,BACK TO THE ROOTS,ff573991d7323459fa24f5a082341aa14fba97fe9952e277b27903e35e8e629d
 Any Safeway receipt,SAFEWAY,SAFEWAY,4878f774d8aa0e3742616bd60f25378e6894918fed01d26eb5ce9e9360ea1769
-"Welch's® Fruit Snacks, select varieties, 6 count+",,WELCHS FRUIT SNACKS,4d564a4dc572636e95fb7f0d9e819bc859e1ec12858ba335accc3f4739d255d5
+"Welch's® Fruit Snacks, select varieties, 6 count+",not retailer specific,WELCHS FRUIT SNACKS,4d564a4dc572636e95fb7f0d9e819bc859e1ec12858ba335accc3f4739d255d5
 Back to the Roots Grow Hydroponic Grow Kit OR Refill Bundle at Walmart,WALMART,BACK TO THE ROOTS,4fadbd7a1937bba6052f4b53d00da5fe16c1949ad85e7f709c90b3f4f87d26cb
-"Ben & Jerry's Wake & No Bake Cookie Dough Ice Cream, 16 ounce",,BEN AND JERRYS,d82517c7ecc6c83d2247db88de0eaf85722c4a936c8c6a35de54d57d67c23730
-"ORBIT®, select varieties",,ORBIT,3a9a1dc2fa0d6c8a36a7d8c61057dfee22fef8363cae5d98789940f473500934
+"Ben & Jerry's Wake & No Bake Cookie Dough Ice Cream, 16 ounce",not retailer specific,BEN AND JERRYS,d82517c7ecc6c83d2247db88de0eaf85722c4a936c8c6a35de54d57d67c23730
+"ORBIT®, select varieties",not retailer specific,ORBIT,3a9a1dc2fa0d6c8a36a7d8c61057dfee22fef8363cae5d98789940f473500934
 "GATORADE® Fast Twitch®, 12-ounce single serve, buy 2 at Kroger",FOOD4LESS,GATORADE,fe91b4129b4d8158ab114232e979270240f66712e1eb5141966b0544aa222218
 "Butterball, select varieties, spend $10 at Pick 'n Save OR Metro Market",PICK N SAVE,BUTTERBALL,6a555308e4f4eec4fdf9f2e41ae3323c23fa100261f730f52185659e41a4890e
-Hellmann's | Best Foods Vegan Dressing or Spread,,HELLMANNS BEST FOODS,21b368b7d53f983d96c883915f2aa21c2799699fd2782d02d6653e41f108ba29
-"Rao's®, Pasta OR Sauce, spend $10",,RAO'S,5558a70255c04fc56eb581f64ad80350193d2186b76b35613b4e0d1c293f5c4d
+Hellmann's | Best Foods Vegan Dressing or Spread,not retailer specific,HELLMANNS BEST FOODS,21b368b7d53f983d96c883915f2aa21c2799699fd2782d02d6653e41f108ba29
+"Rao's®, Pasta OR Sauce, spend $10",not retailer specific,RAO'S,5558a70255c04fc56eb581f64ad80350193d2186b76b35613b4e0d1c293f5c4d
 L'Oreal Paris True Match Foundation at Target,TARGET,LOREAL PARIS COSMETICS,902110e2739e4681e571396ad9a9d2dcb5543f25f329610ab2be8ab0dc64dc04
-"Sara Lee® or Alfaros® Artesano bread, spend $20",,ALFAROS,6750c7ed4ac5dc6e706ad336dba48b94cc16a2acb47db0723a3d4e5555f6b481
+"Sara Lee® or Alfaros® Artesano bread, spend $20",not retailer specific,ALFAROS,6750c7ed4ac5dc6e706ad336dba48b94cc16a2acb47db0723a3d4e5555f6b481
 Spend $220 at Albertsons,ALBERTSONS,ALBERTSONS,cb4288e5dbdfcd5244444cc1cd6bcf9f58c0fd7c266be3f23c172a1f6868f6d6
 "Perfect Keto Super Reds, online at Amazon",AMAZON,PERFECT KETO,a9ac7a7b1a4174c96ccd0542e12f6e7bdc039d12499b9c4301fbd7931a076491
-The Rustik Oven® bread,,RUSTIK OVEN,f5c8b3bd46c0d1089944c70977546b24567cbfcb8fd12fa5c0c88f4eb1da8223
+The Rustik Oven® bread,not retailer specific,RUSTIK OVEN,f5c8b3bd46c0d1089944c70977546b24567cbfcb8fd12fa5c0c88f4eb1da8223
 Gorton's at select retailers,WALMART,GORTONS,2b8c3017e7a82d2ad12a398fa02a66d231591b44005c5a70d71b1ddc7fc136aa
 "Back to the Roots Seeds, at Walmart",WALMART,BACK TO THE ROOTS,52a7f6e55831ae25b15c928d9c43bc2b0bb7c53748dc82d6fa88574692ec5b0a
-Nature Valley™ Protein Granola,,NATURE VALLEY,54cb9520fdbae121558fdd5cbde0bc8ccc9cafeff8d171d25faaf909423467be
-Brita® Pitcher OR Dispenser,,BRITA,7651f16cb976d47587118b1b41c803c1c71ae4abbde36f451c9015a85eaacbff
+Nature Valley™ Protein Granola,not retailer specific,NATURE VALLEY,54cb9520fdbae121558fdd5cbde0bc8ccc9cafeff8d171d25faaf909423467be
+Brita® Pitcher OR Dispenser,not retailer specific,BRITA,7651f16cb976d47587118b1b41c803c1c71ae4abbde36f451c9015a85eaacbff
 Spend $30 at CVS,CVS,CVS,81f310f777fa464b8e0c776cee4c932dab3b3642ea4e8ee829e9ae7973cf1a59
 "Back to the Roots Organic Kits and Planters, at Target",TARGET,BACK TO THE ROOTS,104530bfdf7ab9d6a615e80ce41e4701715ac648541f53b4682a82f152fe3e54
-"Sir Kensington's® Condiments, buy 2",,SIR KENSINGTONS,4d515426730f32cfd4c4ef2db4073baf7855ac0e4dc57be2e4d3d1905bfa63f1
+"Sir Kensington's® Condiments, buy 2",not retailer specific,SIR KENSINGTONS,4d515426730f32cfd4c4ef2db4073baf7855ac0e4dc57be2e4d3d1905bfa63f1
 "Perfect Keto Exogenous Ketones Powder, online at Amazon",AMAZON,PERFECT KETO,9ff3a7478f0c011c8b4f4d21071e848859c2edc4bb750814bb1f66a53ef9a873
 Select Beverages AND Prepared Food Item at Casey's,CASEYS GENERAL STORE,CASEYS GENERAL STORE,cbf19bfdad27a6e92c60646ddfdae4d43b460f5473e183f8792779c973ee3884
 "Back to the Roots Potting Mix, 1 cubic foot, at Lowe's Home Improvement",LOWES HOME IMPROVEMENT,BACK TO THE ROOTS,a9721ec5b19797a622e8fda4a15f9aaec1371811dc69a4e1609cb056023d42f5
-"Barilla® pasta, select varieties, buy 2",,BARILLA,c29a7059d41fcb7b62634da08e0a0d34c7fefe0e53681f4070512eb55d2fbcaa
+"Barilla® pasta, select varieties, buy 2",not retailer specific,BARILLA,c29a7059d41fcb7b62634da08e0a0d34c7fefe0e53681f4070512eb55d2fbcaa
 Any Star Market receipt,STAR MARKET,STAR MARKET,9986bb85b43a7f45c59fe5f28fecfebcee8968241cd05be134009699fea4a30a
 "Squirrel, The Bedside Perch, online at Amazon",AMAZON,SQUIRREL,d737674a6de53e86046ffad9e98f2a0c8a5c3dda14677b05b2464068f68ebecc
 "Fresh Bakery items, select varieties, at Casey's",CASEYS GENERAL STORE,CASEYS GENERAL STORE,b928a33d6431f8886d812c3e1297b32104aac53568a8c27e54bc66f711e0b8f4
-Ben & Jerry's® Churray For Churros™ Ice Cream,,BEN AND JERRYS,c2ca4c91eb5467fb9ee32c88d58bbb67304025f6bb47380554dbab12d579d2df
-Sir Kensington's® Condiments,,SIR KENSINGTONS,330c8c912f7397c7015a3c7a2845486badd203064b3545cf8b0ffcd1e84e750b
+Ben & Jerry's® Churray For Churros™ Ice Cream,not retailer specific,BEN AND JERRYS,c2ca4c91eb5467fb9ee32c88d58bbb67304025f6bb47380554dbab12d579d2df
+Sir Kensington's® Condiments,not retailer specific,SIR KENSINGTONS,330c8c912f7397c7015a3c7a2845486badd203064b3545cf8b0ffcd1e84e750b
 "Dove Hand Wash, select varieties at Target",TARGET,DOVE,ae26f3c334aae66f197e22f5a63cf9f307bbf9a4987b81f93a73527b62e3bc9f
 Spend $15 at Burger King,BURGER KING,BURGER KING,7ff00fd44bd2df33cc2ed59ad676fbfca112aa11a6ec69be8b369a8a99d415f3
-Cameron’s Coffee EcoPods,,CAMERON'S COFFEE,552d441c08ed2ef79d25ae687d578953743688df23163b21eb959246fef1e754
+Cameron’s Coffee EcoPods,not retailer specific,CAMERON'S COFFEE,552d441c08ed2ef79d25ae687d578953743688df23163b21eb959246fef1e754
 L'Oréal Paris True Match Foundation at Target,TARGET,LOREAL PARIS COSMETICS,84779b6f84d895e0b49d2dd7ddd576e5e52c8dffdc33f6e5d737a84e8d763a25
-"Sara Lee® Delightful bread, buy 2",,SARA LEE,89bc310b4d09f49cc09b48cb3a0be6d62f36a309d2da12a66810592972ae124f
-"Welch's® Juicefuls® Juicy Fruit Snacks, buy 2",,WELCHS FRUIT SNACKS,043b165c088559e4f46fb4b3092198eeaa4a1932daa70a67d988bcad8fc0d2db
+"Sara Lee® Delightful bread, buy 2",not retailer specific,SARA LEE,89bc310b4d09f49cc09b48cb3a0be6d62f36a309d2da12a66810592972ae124f
+"Welch's® Juicefuls® Juicy Fruit Snacks, buy 2",not retailer specific,WELCHS FRUIT SNACKS,043b165c088559e4f46fb4b3092198eeaa4a1932daa70a67d988bcad8fc0d2db
 Spend $35 at Subway,SUBWAY,SUBWAY,0bd24f57aa7837949b411d607b7b6ce188ca05729c376d9ad7d4da2bd87133f7
 "Dixon® Safety Carpenter Pencil, 10 count, at Lowe’s®",LOWES HOME IMPROVEMENT,DIXON,a22eb157e345a0416af63d81e890002bed01c8edf3e73191daa0b9118c3151ea
 Spend $115 at Safeway,SAFEWAY,SAFEWAY,c401770bfd4ab8e22d5468aafeddbec7f6975ee83918529c1a2304f99599200e
 "Breyers Reese's Ice Cream, select varieties, at GIANT OR MARTIN’S",MARTINS FOODS,BREYERS,5926c61fe91f19744ef16f04f761a8a03fe4269e56a8e103c9210b0284cf26c8
 Shop 2 times at Randalls,RANDALLS,RANDALLS,94a436bd77f42f1b4a3fc9380f72be2f5092e886001a923a806129cf3aa911c7
-"Jack Link's®, select varieties",,JACK LINKS,b5112ac3187cc1919cdaac7fe3f16d403fab944375e53d9351eecad3dc43cb3b
+"Jack Link's®, select varieties",not retailer specific,JACK LINKS,b5112ac3187cc1919cdaac7fe3f16d403fab944375e53d9351eecad3dc43cb3b
 "Persil® ProClean®, select varieties, at Walmart",WALMART,PERSIL,6f227235cd24dd8f105c3aeccec9e481e7d0eb7014b3768b9edbb2870a8711b2
 "Back to the Roots Organic 3-In-1 Seed Starting Mix 12 quart, at Walmart or Target",TARGET,BACK TO THE ROOTS,d0b1a1b94eec91338b228a95d07ae6578dec3a996302f295d3496007656a3506
-"STARBURST®, select varieties",,STARBURST,e76699f69d930c2bfcd7ff14d461e048ed58dcbb1f2f031623bc1aed9aac5fba
-"Super Coffee, 12 ounce single serve",,SUPER COFFEE,b741a6303190a29034da1472320473191f320136081ad1f41464ab81a9bb4f16
+"STARBURST®, select varieties",not retailer specific,STARBURST,e76699f69d930c2bfcd7ff14d461e048ed58dcbb1f2f031623bc1aed9aac5fba
+"Super Coffee, 12 ounce single serve",not retailer specific,SUPER COFFEE,b741a6303190a29034da1472320473191f320136081ad1f41464ab81a9bb4f16
 Spend $90 at Safeway,SAFEWAY,SAFEWAY,d3c474315c44af4d754185d95df9650d6ea9e3dbc14b9a3d2cf1cd3aeccd5512
 Spend $5 on brisket mac & cheese sandwich OR other single-serve prepared food item,CASEYS GENERAL STORE,CASEYS GENERAL STORE,3c26e01d43113be96bffc894ca4f46471c7acd2802d8dbf572ba9b9b6467fcbe
 Spend $50 at Chewy.com,CHEWY,CHEWY,31b127b247f073bad446c11c784a861f7b315c4788e6b22fd82bd173926dacb5
-Simply Organic Seasoning Mixes OR Spices,,SIMPLY ORGANIC,b175f09bbbb7177c8320e279e678e64d97ff4896a962ee5b559a6e812b66c537
+Simply Organic Seasoning Mixes OR Spices,not retailer specific,SIMPLY ORGANIC,b175f09bbbb7177c8320e279e678e64d97ff4896a962ee5b559a6e812b66c537
 Spend $10 at KFC,KFC,KFC,3ed262fac53e6490e808c4afef445314df980b0e4c3a056b7a490fc15fa98494
-Sargento Product,,SARGENTO,60fe64395b4c8efb121340c6b500cb1c2af281aa6340c02ed40ff33e0299683f
-Thomas'® Bagel Thins,,THOMAS,3bb13337601003a90273115c4e57541b1bce056718784eb47735cbe6ab1c057e
+Sargento Product,not retailer specific,SARGENTO,60fe64395b4c8efb121340c6b500cb1c2af281aa6340c02ed40ff33e0299683f
+Thomas'® Bagel Thins,not retailer specific,THOMAS,3bb13337601003a90273115c4e57541b1bce056718784eb47735cbe6ab1c057e
 Spend $270 at Pavilions,PAVILIONS,PAVILIONS,0550e3939f4b6f808f10beb419380f1e0aea38d53999e24c835be928a26a0efe
 "Back to the Roots Soils, select varieties, at Walmart",WALMART,BACK TO THE ROOTS,81ee9d5fbe8af572f0ae42156befe1f2d510bde27ce048111d0b54725770ef13

@@ -28,11 +28,17 @@ def add_unique_ids_categories():
 
     brand_category_df.to_csv("brand_category.csv", index=False)
 
+def fill_retailer():
+    offer_rets = pd.read_csv("data/offer_retailer.csv")
+    offer_rets['RETAILER'] = offer_rets['RETAILER'].replace("", "not retailer specific").fillna("not retailer specific")
+
+    offer_rets.to_csv("data/offer_retailer.csv", index=False)
+
 
 def group_offers():
     pipe = pipeline(task="zero-shot-classification", model="facebook/bart-large-mnli")
-    brand_cats = pd.read_csv("data/cbrand_category.csv")
-    offer_rets = pd.read_csv("data/coffer_retailer.csv")
+    brand_cats = pd.read_csv("data/brand_category.csv")
+    offer_rets = pd.read_csv("data/offer_retailer.csv")
 
     generic_offers = offer_rets[offer_rets["RETAILER"] == offer_rets["BRAND"]].merge(brand_cats, left_on="BRAND", right_on="BRAND")
     grouped_generic = generic_offers.groupby('RETAILER').agg({'BRAND_BELONGS_TO_CATEGORY':lambda x: set(x)})
@@ -72,8 +78,9 @@ def group_offers():
 
     
 def main():
-    add_unique_ids_offers()
-    add_unique_ids_categories()
+    fill_retailer()
+    # add_unique_ids_offers()
+    # add_unique_ids_categories()
     # group_offers()
 
 
