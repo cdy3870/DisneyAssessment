@@ -49,6 +49,10 @@ streamlit run app.py
 ```
 to use the app.
 
+Otherwise, here is a demo of the app and the databases:
+
+![til](https://raw.githubusercontent.com/cdy3870/DisneyAssessment/tree/main/assets/demo.gif)
+
 ## Included Files
 ```plaintext
 DisneyAssessment/
