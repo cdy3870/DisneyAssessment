@@ -15,7 +15,7 @@ import os
 
 st.set_page_config(layout="wide") 
 
-llm = ChatGroq(model="llama3-70b-8192", api_key="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")
+llm = ChatGroq(model="llama3-70b-8192", api_key=os.environ.get('LLAMA_KEY'))
 
 def connect_to_db(host: str, name: str, user: str, password: str) -> Tuple[psycopg2.extensions.connection, psycopg2.extensions.cursor]:
 	"""

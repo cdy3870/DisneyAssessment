@@ -4,7 +4,7 @@ import os
 from sentence_transformers import SentenceTransformer
 import torch
 
-api_key = os.environ.get('PINECONE_API_KEY') or "2eb88fd4-ee3f-47ef-97b9-08a2cb42528e"
+api_key = os.environ.get('PINECONE_API_KEY')
 
 params = {"sim_mets": ["l2", "cosine", "dot_product"],
      "search_algo": ["exhaustive", "beam", "hierarchical"],
