@@ -41,7 +41,7 @@ b. Include a use case for Retriever-Augmented Generation (RAG), where the retrie
 
 
 ## Usage
-1. I used a local database so you would not be able to access but the images should showcase the stored data.
+1. I used a local database so you would not be able to access but the video should showcase the stored data.
 2. You would also need access to my Pinecode credentials to see the stored data and my LlaMA credentials to use the RAG.
 3. If all of this information is obtained, then run:
 ```
@@ -51,7 +51,7 @@ to use the app.
 
 Otherwise, here is a demo of the app and the databases:
 
-![til](https://raw.githubusercontent.com/cdy3870/DisneyAssessment/tree/main/assets/demo.gif)
+![demo](https://github.com/cdy3870/DisneyAssessment/blob/main/assets/demo.gif)
 
 ## Included Files
 ```plaintext
