@@ -8,7 +8,7 @@ import json
 import pandas as pd
 
 class PineCone():
-	def __init__(self, index_name):
+	def __init__(self, index_name: str) -> None:
 		"""
 		Initializes the Pinecone client and creates an index if it doesn't exist.
 
@@ -59,9 +59,9 @@ class PineCone():
 			d = tuple(tuple(d[:-1]))
 			data.append(d)
 
-		for d in data:
-			print(d)
-			print(len(d))
+		# for d in data:
+		# 	print(d)
+		# 	print(len(d))
 
 		return data
 
@@ -105,20 +105,7 @@ def parse_data(data):
 	parsed_data = data.applymap(str).values.tolist()
 
 
-
-
-
 	return parsed_data
-
-# def parse_data_test(data):
-# 	parsed_data = []
-# 	docs = data[["doc_id", "doc"]].drop_duplicates().dropna()
-# 	for index, row in docs.iterrows():
-# 		parsed_data.append([str(row["doc_id"]), [], {"experience": row["doc"]}])
-
-# 	return parsed_data
-
-
 
 
 def main():

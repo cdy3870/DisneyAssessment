@@ -1,4 +1,3 @@
-
 ## 1. Data Ingestion
 
 a. Provide a dataset (e.g., JSON, CSV, or unstructured text files) that includes a mix of structured and unstructured data.
@@ -15,7 +14,7 @@ a. The data may contain noise or require transformation (e.g., text cleaning, pa
 b. The candidate should demonstrate how they preprocess the data for efficient storage and later retrieval.
 
 
-- The main issues with the datasets are the absence of primary keys so I added keys to link brands to their categories. There are missing values for the retailers column, which I replaced with "not retailer specific" since the coupons would work for regardless of the retailer. Since certain coupons can be attributed to multiple categories, I furthered grouped offers according to multiple categories:
+- The main issues with the datasets are the absence of primary keys so I added keys to link brands to their categories. Since certain coupons can be attributed to multiple categories, I furthered grouped offers according to multiple categories:
 
     1. Every offer that has the same retailer and brand is likely just a general offer for that particular store that applies to every good in that store. For example “Spend $10 at CVS” falls under medicine & treatments, skin care, and more. We assign all of these categories to that offer.
     2. Every offer that does not have the same retailer and brand is specific to a product brand. There are instances where every corresponding category applies. For example, “Beyond Meat Plant-Based products, spend $25” falls under all of its categories (plant-based meat, frozen plant-based, packaged meat). However, a deal on "GOYA Coconut Water" falls under water, rice & grains, sauces & marinades, etc. Obviously we only want to fall under "water". 
@@ -39,3 +38,33 @@ a. Create a simple API or script that allows querying based on a given text prom
 b. Include a use case for Retriever-Augmented Generation (RAG), where the retrieved data is used to generate a summary or response based on the query.
 
 - I created a Streamlit app where you can input a request for an item and the most relevant coupons are returned. I also reference other information from the database and provide those as well. I then take the categories that I grouped the coupons into and used them with retrieval augmented generation. The LLaMA model (through the Groq API) provides a set of recommended items based on the categories found during vector indexing. 
+
+
+## Usage
+1. I used a local database so you would not be able to access but the images should showcase the stored data.
+2. You would also need access to my Pinecode credentials to see the stored data and my LlaMA credentials to use the RAG.
+3. If all of this information is obtained, then run:
+```
+streamlit run app.py
+```
+to use the app.
+
+## Included Files
+```plaintext
+DisneyAssessment/
+├── data/
+│   ├── brand_category.csv (brands and the possible categories they fall into)
+│   ├── categories.csv (categories and their parent categories)
+│   ├── offer_retailer.csv (coupons and their corresponding retailers and brands)
+│   ├── processed_offers.csv (grouped coupons according to category)
+├── db/
+│   ├── db_setup.py (connects to postgres db, creates tables and inserts data from csv to db)
+│   ├── queries.py (queries used for db setup)
+|   └── data_preprocess.py (preprocesses csv files before db )
+├── pinecone_model/
+│   ├── indexer.py (parses data, creates vector index, embeds data, and stores)
+│   ├── searcher.py (queries to vector database)
+│   └── utils.py (stores pinecone credentials)
+├── README.md
+├── app.py (Streamlit app for coupon retrieval and RAG)
+└── .gitignore
